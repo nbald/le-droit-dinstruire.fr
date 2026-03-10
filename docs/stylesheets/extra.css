@@ -1,0 +1,40 @@
+.md-nav__title,
+.md-nav__item--section > .md-nav__link[for] {
+  color: black;
+}
+
+.mobile-only {
+  display: none;
+}
+
+@media (max-width: 76.25em) {
+  .mobile-only {
+    display: block;
+  }
+}
+
+/* Full-width tables */
+.wide-tables table:not([class]) {
+  display: table !important;
+  width: 100% !important;
+  overflow: visible !important;
+}
+
+/* Bar charts for delay visualization */
+.delay-chart td:last-child {
+  width: 30%;
+}
+
+.delay-chart .bar {
+  display: inline-block;
+  height: 0.9em;
+  width: var(--bar-pct);
+  background: var(--md-primary-fg-color);
+  border-radius: 2px;
+  vertical-align: middle;
+  opacity: 0.8;
+}
+
+.delay-chart .bar.bar-filing {
+  background: var(--md-accent-fg-color);
+}

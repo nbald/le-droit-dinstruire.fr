@@ -1,0 +1,98 @@
+site_name: Le droit d'instruire
+site_url: https://le-droit-dinstruire.fr
+site_description: >-
+  Le guide de référence sur l'instruction en famille — tout ce que la
+  jurisprudence dit, en un seul endroit, en langage clair.
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  language: fr
+  palette:
+    scheme: default
+    primary: indigo
+    accent: amber
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.follow
+    - content.tooltips
+    - navigation.footer
+
+plugins:
+  - search:
+      lang: fr
+  - social:
+      cards_layout_options:
+        background_color: "#3f51b5"
+        color: "#ffffff"
+  - meta
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.smartsymbols
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social: []
+
+copyright: >-
+  Ce site est une ressource informative. Il ne constitue pas un conseil juridique.<br>
+  <a href="/a-propos/">À propos et mentions légales</a>
+
+nav:
+  - Accueil: index.md
+  - Préparer sa demande:
+    - La procédure: preparer/procedure.md
+    - "Motif 1 — Santé et handicap": preparer/motif-1-sante.md
+    - "Motif 2 — Activité intensive": preparer/motif-2-activite.md
+    - "Motif 3 — Itinérance et éloignement": preparer/motif-3-itinerance.md
+    - "Motif 4 — Situation propre de l'enfant":
+      - Le cadre juridique: preparer/motif-4-situation-propre.md
+      - Ce qui marche: preparer/motif-4-ce-qui-marche.md
+      - Ce qui ne marche pas: preparer/motif-4-ce-qui-ne-marche-pas.md
+    - Le projet pédagogique: preparer/projet-pedagogique.md
+    - Stratégie de dépôt: preparer/strategie.md
+    - Les arguments à ne pas utiliser: preparer/arguments-a-eviter.md
+    - Séparation parentale: preparer/separation-parentale.md
+    - "Connaître son académie": preparer/academies.md
+    - "Les allocations et l'IEF": preparer/allocations.md
+    - "Ce qu'on risque vraiment": preparer/sanctions.md
+  - Contester un refus:
+    - Vérifier la légalité du refus: contester/legalite-refus.md
+    - Le RAPO: contester/rapo.md
+    - Le tribunal administratif: contester/tribunal-administratif.md
+    - Le référé-suspension: contester/refere.md
+    - "Combien de temps ça prend ?": contester/delais.md
+    - Se faire aider: contester/aide.md
+  - "Le droit d'instruire en Europe":
+    - Ce que dit la CEDH: europe/cedh.md
+    - La France et ses voisins: europe/comparaison.md
+  - "Après l'autorisation":
+    - Le contrôle pédagogique: apres/controle-pedagogique.md
+    - "L'enquête de mairie": apres/enquete-mairie.md
+    - Questions pratiques: apres/questions-pratiques.md
+  - Le coût humain: cout-humain.md
+  - Décisions: decisions/index.md
+  - Qui sommes-nous: a-propos/index.md
+  - Glossaire: a-propos/glossaire.md

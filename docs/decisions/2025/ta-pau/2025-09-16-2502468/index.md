@@ -1,0 +1,167 @@
+---
+search:
+  exclude: true
+---
+
+# TA (Pau), 2025-09-16, n° 2502468
+
+ID: CEOD_DTA_2502468_20250916
+Date: 2025-09-16
+Juridiction: TA (Pau)
+Formation: None
+N° affaire: 2502468
+Nature: Décision
+Solution: None
+ECLI: None
+
+## Texte intégral
+
+Vu la procédure suivante :
+
+I. Par une requête, enregistrée sous le n° 2502468, le 24 août 2025, des mémoires et des pièces complémentaires enregistrés les 25, 26, 28 et 29 août et les 1er et 3 septembre 2025, Mme C D, demande au juge des référés, sur le fondement des dispositions de l'article L. 521-1 du code de justice administrative :
+
+1°) d'ordonner la suspension de l'exécution de la décision du 26 juin 2025 par laquelle la directrice académique des services de l'éducation nationale du Gers (DASEN) l'a mise en demeure de scolariser sa fille B, née le 11 septembre 2018 à la suite de la décision de refus d'autorisation d'instruction en famille et des appréciations défavorables aux contrôles effectués, sous peine de sanctions pénales ;
+
+2°) d'annuler cette décision ;
+
+3°) d'ordonner au DASEN d'Auch de délivrer l'autorisation d'instruction en famille via le CNED réglementé, adaptée à son état de santé et à ses besoins particuliers.
+
+Elle soutient que :
+
+- l'urgence est démontrée par l'importance pour sa fille B, de pouvoir suivre une instruction en famille s'agissant d'une enfant en situation de handicap, diagnostiquée avec un trouble du spectre autistique (TSA) depuis avril 2024 et qui présente des besoins éducatifs particuliers qui rendent l'environnement scolaire ordinaire inadapté à son profil ; elle bénéficie d'une instruction en famille depuis 2021, adaptée à ses capacités et à son rythme, ce qui lui a permis de faire de réels progrès ; elle est hypersensible et peut très vite être en surcharge émotionnelle avec de grandes difficultés à exprimer ses besoins ce qui peut se manifester par des cris, coups, agitation ou pleurs, et la scolarisation dite " classique ", par son environnement bruyant et contraignant, ne peut répondre à ses besoins spécifiques ; elle est susceptible d'être victime du harcèlement scolaire et il est prévu un déménagement dans les mois à venir, contexte qui renforce l'impossibilité de scolariser B dans de bonnes conditions pour la rentrée 2025-2026 ;
+
+- il existe un doute sérieux sur la légalité de la décision contestée en raison de l'intérêt supérieur de l'enfant dès lors que :
+
+\* cette décision méconnaît l'article L.111-1 du code de l'éducation et la convention relative aux droits des personnes handicapées, faute d'une prise en compte réelle des besoins liés au handicap de B ;
+
+\* elle ne prend pas en compte la demande du CNED réglementé ;
+
+\* elle est entachée d'une appréciation partiale lors notamment du contrôle pédagogique du 17 juin 2025 et porte une atteinte disproportionnée à l'intérêt supérieur de son enfant ;
+
+\* l'inscription de B au CNED réglementé, est une solution adaptée à ses besoins spécifiques confirmés par un certificat médical ;
+
+\* l'avis défavorable de l'inspectrice résulte d'un rapport biaisé et conduit à une décision disproportionnée, contraire à l'intérêt supérieur de l'enfant, garanti par l'article 3-1 de la convention internationale relative aux droits de l'enfant ;
+
+\* le refus d'instruction en famille et la mise en demeure constituent une sanction préjudiciable et disproportionnée, privant B d'une instruction adaptée à son handicap.
+
+Par un mémoire en défense, enregistré le 2 septembre 2025, le recteur de l'académie de Toulouse conclut au rejet de la requête.
+
+Il fait valoir que la condition d'urgence n'est pas remplie et qu'aucun des moyens soulevés n'est fondé.
+
+II. Par une requête n° 2502469 enregistrée le 24 août 2025 et des mémoires complémentaires enregistrés les 28 et 29 août et les 1er et 3 septembre 2025, Mme C D, demande, sur le fondement de l'article L. 521-1 du code de justice, au juge des référés du tribunal :
+
+1°) de suspendre l'exécution de la décision de refus d'instruction en famille du 18 juillet 2025, prise sur recours administratif préalable obligatoire reçu le 10 juillet 2025 ;
+
+2°) d'annuler la décision dont la suspension est demandée ;
+
+3°) d'ordonner au DASEN d'Auch de délivrer l'autorisation d'instruction en famille via le CNED réglementé, adaptée à son état de santé et à ses besoins particuliers.
+
+4°) d'indemniser le préjudice moral et l'atteinte au droit fondamental de l'enfant.
+
+Elle soutient que :
+
+- l'urgence est démontrée par l'importance pour sa fille B, de pouvoir suivre une instruction en famille s'agissant d'une enfant en situation de handicap, diagnostiquée avec un trouble du spectre autistique (TSA) depuis avril 2024 et qui présente des besoins éducatifs particuliers qui rendent l'environnement scolaire ordinaire inadapté à son profil en raison, d'une part, de son " régime alimentaire spécifique " et, d'autre part, de son " retard de croissance " qui la rendrait plus " vulnérable au risque de harcèlement scolaire " ;
+
+- il existe un doute sérieux sur la légalité de la décision contestée en raison de l'intérêt supérieur de l'enfant dès lors que :
+
+\* cette décision méconnaît l'article L.111-1 du code de l'éducation et la convention relative aux droits des personnes handicapées, faute d'une prise en compte réelle des besoins liés au handicap de B ;
+
+\* elle ne prend pas en compte la demande du CNED réglementé ; l'inscription de B au CNED réglementé, est une solution adaptée à ses besoins spécifiques confirmés par un certificat médical ;
+
+\* la décision est entachée d'une erreur manifeste d'appréciation liée à l'appréciation partiale portée par l'inspectrice lors notamment du contrôle pédagogique du 17 juin 2025 ; ce rapport est entaché d'inexactitudes concernant le suivi éducatif déjà mis en place ;
+
+\* l'avis défavorable de l'inspectrice résulte d'un rapport biaisé et entaché d'erreurs de fait et conduit à une décision disproportionnée, contraire à l'intérêt supérieur de l'enfant, garanti par l'article 3-1 de la convention internationale relative aux droits de l'enfant.
+
+Par un mémoire en défense, enregistré le 2 septembre 2025, le recteur de l'académie de Toulouse conclut au rejet de la requête.
+
+Il fait valoir que :
+
+- les conclusions à fin d'annulation, aux fins indemnitaires et aux fins d'enjoindre la délivrance d'un " CNED réglementé " sont irrecevables ;
+
+- la condition d'urgence n'est pas remplie et l'intérêt supérieur de l'enfant justifie, en l'espèce qu'elle soit scolarisée dans un établissement, à la rentrée scolaire 2025 dès lors que deux contrôles successifs réalisés par l'administration ont montré des carences scolaires auxquelles il est impératif de répondre par une scolarisation assurée par des professionnels de l'enseignement ;
+
+- aucun des moyens soulevés n'est fondé.
+
+Un mémoire présenté par Mme D a été enregistré le 10 septembre 2025.
+
+Vu :
+
+- les autres pièces des dossiers ;
+
+- les requêtes n° 2502463 et 2502465 par lesquelles Mme D demande l'annulation des décisions contestées.
+
+Vu :
+
+- la convention internationale relative aux droits de l'enfant ;
+
+- la convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales ;
+
+- le code de l'éducation ;
+
+- le code de justice administrative.
+
+Le président du Tribunal a désigné Mme Madelaigue, vice-présidente, pour statuer sur les demandes de référé.
+
+Les parties ont été régulièrement averties du jour de l'audience.
+
+Ont été entendus au cours de l'audience publique du 3 septembre 2025 à 14h00, en présence de Mme Caloone, greffière d'audience :
+
+- le rapport de Mme Madelaigue ;
+
+- les observations de Mme D ;
+
+Le recteur de l'académie de Toulouse n'était ni présent, ni représenté.
+
+La clôture de l'instruction a été prononcée à l'issue de l'audience.
+
+Une note en délibéré a été produite par Mme D le 10 septembre 2025, et n'a pas été communiquée.
+
+Considérant ce qui suit :
+
+1. Mme D a sollicité une autorisation d'instruction en famille (A) sur le fondement du 1° de l'article L. 131-5 du code de l'éducation motivée par la situation de handicap de sa fille B, née le 11 septembre 2018. Par une décision du 26 juin 2025, le directeur académique des services de l'éducation nationale (DASEN) du Gers a rejeté sa demande d'autorisation d'instruction en famille pour l'année scolaire 2025-2026 au motif que son enfant a fait l'objet de deux contrôles pédagogiques au cours de l'année scolaire 2024-2025 dont les résultats ont été jugés insuffisants. Par une décision prise le même jour, le DASEN du Gers l'a mise en demeure de scolariser son enfant. Par une décision du 18 juillet 2025, prise sur recours administratif préalable obligatoire, la commission académique a confirmé le refus d'autoriser A. Mme D demande au juge des référés, statuant sur le fondement de l'article L. 521-1 du code de justice administrative, d'ordonner la suspension de l'exécution de ces décisions et d'ordonner à l'administration de délivrer l'autorisation d'instruction en famille via le CNED réglementé, adaptée à l'état de santé de sa fille et à ses besoins particuliers. Elle demande également l'indemnisation du préjudice moral de sa fille compte tenu de l'atteinte au droit fondamental de l'enfant.
+
+2. Les requêtes susvisées n° 2502468 et 2502469 présentées par Mme D présentent à juger des questions similaires et ont fait l'objet d'une instruction commune. Il y a lieu de les joindre pour statuer par une seule ordonnance.
+
+Sur la demande de suspension :
+
+Sans qu'il soit besoin d'examiner la recevabilité de la requête :
+
+3. Aux termes de l'article L. 521-1 du code de justice administrative : " Quand une décision administrative, même de rejet, fait l'objet d'une requête en annulation ou en réformation, le juge des référés, saisi d'une demande en ce sens, peut ordonner la suspension de l'exécution de cette décision, ou de certains de ses effets, lorsque l'urgence le justifie et qu'il est fait état d'un moyen propre à créer, en l'état de l'instruction, un doute sérieux quant à la légalité de la décision. () ".
+
+4. Aux termes de l'article L. 131-2 du code de l'éducation, dans sa rédaction issue de la loi du 24 août 2021 confortant le respect des principes de la République : " L'instruction obligatoire est donnée dans les établissements ou écoles publics ou privés. Elle peut également, par dérogation, être dispensée dans la famille par les parents, par l'un d'entre eux ou par toute personne de leur choix, sur autorisation délivrée dans les conditions fixées à l'article L. 131-5. () ". Selon les dispositions de l'article L. 131-5 du même code : " Les personnes responsables d'un enfant soumis à l'obligation scolaire définie à l'article L. 131-1 doivent le faire inscrire dans un établissement d'enseignement public ou privé ou bien, à condition d'y avoir été autorisées par l'autorité de l'Etat compétente en matière d'éducation, lui donner l'instruction en famille. () / L'autorisation mentionnée au premier alinéa est accordée pour les motifs suivants, sans que puissent être invoquées d'autres raisons que l'intérêt supérieur de l'enfant : / 1° L'état de santé de l'enfant ou son handicap ; () / L'autorisation mentionnée au premier alinéa est accordée pour une durée qui ne peut excéder l'année scolaire. Elle peut être accordée pour une durée supérieure lorsqu'elle est justifiée par l'un des motifs prévus au 1°. Un décret en Conseil d'Etat précise les modalités de délivrance de cette autorisation. / L'autorité de l'Etat compétente en matière d'éducation peut convoquer l'enfant, ses responsables et, le cas échéant, les personnes chargées d'instruire l'enfant à un entretien afin d'apprécier la situation de l'enfant et de sa famille et de vérifier leur capacité à assurer l'instruction en famille. () ". Aux termes des dispositions de l'article R. 131-11-2 dudit code : " () Lorsque la demande d'autorisation est motivée par la situation de handicap de l'enfant, elle comprend le certificat médical prévu par l'article R. 146-26 du code de l'action sociale et des familles sous pli fermé ou les décisions relatives à l'instruction de l'enfant de la commission des droits et de l'autonomie des personnes handicapées. / Dans les cas prévus aux deux alinéas précédents, le directeur académique des services de l'éducation nationale transmet le certificat médical sous pli fermé au médecin de l'éducation nationale. Celui-ci rend un avis sur cette demande. () ".
+
+5. Pour la mise en œuvre des dispositions des articles L. 131-2 et L. 131-5, dont il résulte que les enfants soumis à l'obligation scolaire sont, en principe, instruits dans un établissement d'enseignement public ou privé, il appartient à l'autorité administrative, lorsqu'elle est saisie d'une demande tendant à ce que l'instruction d'un enfant dans la famille soit, à titre dérogatoire, autorisée, de rechercher, au vu de la situation de cet enfant, quels sont les avantages et les inconvénients pour lui de son instruction, d'une part, dans un établissement d'enseignement, d'autre part, dans la famille selon les modalités exposées par la demande et, à l'issue de cet examen, de retenir la forme d'instruction la plus conforme à son intérêt.
+
+6. Par ailleurs, il résulte de l'article R. 131-11-2 du code de l'éducation, dans sa rédaction issue du décret n° 2022-182 du 15 février 2022, qu'il appartient à l'autorité administrative, régulièrement saisie d'une demande en ce sens, d'autoriser l'instruction d'un enfant dans sa famille lorsqu'il est établi que son état de santé rend impossible sa scolarisation dans un établissement d'enseignement public ou privé ou lorsque l'instruction dans sa famille est, en raison de cet état de santé, la plus conforme à son intérêt.
+
+7. D'autre part, aux termes, de l'article L. 131-10 du code de l'éducation : " Les enfants soumis à l'obligation scolaire qui reçoivent l'instruction dans leur famille, y compris dans le cadre d'une inscription dans un établissement d'enseignement à distance, sont dès la première année, et tous les deux ans, l'objet d'une enquête de la mairie compétente, uniquement aux fins de vérifier la réalité des motifs avancés par les personnes responsables de l'enfant pour obtenir l'autorisation mentionnée à l'article L. 131-5, et s'il leur est donné une instruction dans la mesure compatible avec leur état de santé et les conditions de vie de la famille. () L'autorité de l'Etat compétente en matière d'éducation doit au moins une fois par an, à partir du troisième mois suivant la délivrance de l'autorisation prévue au premier alinéa de l'article L. 131-5, faire vérifier, d'une part, que l'instruction dispensée au même domicile l'est pour les enfants d'une seule famille et, d'autre part, que l'enseignement assuré est conforme au droit de l'enfant à l'instruction tel que défini à l'article L. 131-1-1. A cet effet, ce contrôle permet de s'assurer de l'acquisition progressive par l'enfant de chacun des domaines du socle commun de connaissances, de compétences et de culture défini à l'article L. 122-1-1 au regard des objectifs de connaissances et de compétences attendues à la fin de chaque cycle d'enseignement de la scolarité obligatoire. Il est adapté à l'âge de l'enfant et, lorsqu'il présente un handicap ou un trouble de santé invalidant, à ses besoins particuliers. () / Les résultats du contrôle sont notifiés aux personnes responsables de l'enfant. Lorsque ces résultats sont jugés insuffisants, les personnes responsables de l'enfant sont informées du délai au terme duquel un second contrôle est prévu et des insuffisances de l'enseignement dispensé auxquelles il convient de remédier. Elles sont également avisées des sanctions dont elles peuvent faire l'objet, au terme de la procédure, en application du premier alinéa de l'article 227-17-1 du code pénal / Si les résultats du second contrôle sont jugés insuffisants, l'autorité de l'Etat compétente en matière d'éducation met en demeure les personnes responsables de l'enfant de l'inscrire, dans les quinze jours suivant la notification de cette mise en demeure, dans un établissement d'enseignement scolaire public ou privé et de faire aussitôt connaître au maire, qui en informe l'autorité de l'Etat compétente en matière d'éducation, l'école ou l'établissement qu'elles auront choisi. Les personnes responsables ainsi mises en demeure sont tenues de scolariser l'enfant dans un établissement d'enseignement scolaire public ou privé au moins jusqu'à la fin de l'année scolaire suivant celle au cours de laquelle la mise en demeure leur a été notifiée () ".
+
+8. Les contrôles diligentés, en vertu de l'article L. 131-10 du code de l'éducation, par l'autorité compétente en matière d'éducation ont pour objet de vérifier, afin que soit effectivement garanti le droit à l'instruction de chaque enfant, que l'instruction d'un enfant dans la famille permet l'acquisition progressive par celui-ci de chacun des domaines du socle commun de connaissances, de compétences et de culture, au regard des objectifs de connaissances et de compétences attendues à la fin de chaque cycle d'enseignement de la scolarité obligatoire et son caractère approprié au regard de l'âge de l'enfant, et le cas échéant, en cas de trouble de santé invalidant, à ses besoins particuliers. Lorsque les résultats du second contrôle de l'instruction d'un enfant dans la famille sont jugés insuffisants, il appartient, en principe, à l'autorité de l'Etat compétente en matière d'éducation, dans l'intérêt même de l'enfant et afin d'assurer son droit à l'instruction, de mettre en demeure les personnes responsables de l'enfant de l'inscrire, dans les quinze jours suivant la notification de cette mise en demeure, dans un établissement d'enseignement scolaire public ou privé.
+
+9. Il résulte de l'instruction qu'à l'issue de deux contrôles pédagogiques, l'inspecteur d'académie a estimé que l'instruction actuellement dispensée en famille à B ne lui permet pas l'acquisition progressive de chacun des domaines du socle commun de connaissances, de compétences et de culture défini à l'article L. 122-1-1 du code de l'éducation. Par conséquent, le directeur académique des services de l'éducation nationale du Gers a mis en demeure Mme D de l'inscrire dans un établissement scolaire et la commission académique lui a refusé la délivrance d'une autorisation d'instruction dans la famille pour l'année 2025-2026.
+
+10. Pour établir l'urgence à suspendre l'exécution des décisions de refus d'instruction en famille et de mise en demeure en litige, Mme D soutient que sa fille, atteinte de TSA est incapable de suivre une scolarité en école ordinaire, qu'elle est reconnue handicapée par la MDPH depuis presque quatre ans, avec un taux d'incapacité de 50 à 80 % et qu'elle même bénéficie de l'allocation d'éducation de l'enfant handicapé (AEEH). Elle fait également valoir que sa fille reçoit des soins réguliers d'une orthophoniste et d'une kinésithérapeute et qu'elle est suivie par une endocrinologue du fait de sa petite taille car des investigations génétiques sont en cours. Elle ajoute que la scolarisation de sa fille aggraverait ses troubles et produit plusieurs certificats médicaux établissant le diagnostic de trouble du spectre de l'autisme sans déficience intellectuelle chez B, associé à un retard staturopondéral ainsi qu'un certificat médical d'un médecin généraliste précisant que son état nécessite une prise en charge globale et quotidienne par sa famille. Toutefois, d'une part, lors de l'année scolaire 2024-2025, le premier contrôle pédagogique organisé le 10 mars 2025, au terme duquel l'inspecteur de l'éducation nationale qui a pris en compte le trouble du spectre autistique de B, a rendu un avis défavorable au motif que dans l'ensemble la proposition pédagogique ne lui permet pas d'établir des liens entre les apprentissages et que, bien que des efforts aient été faits en ce sens, l'instruction n'est pas suffisamment anticipée ni structurée pour permettre une progression régulière. A l'issue du second contrôle qui s'est déroulé le 17 juin 2025 l'inspectrice de l'éducation nationale a rendu un nouvel avis défavorable. D'autre part, la requérante ne justifie pas avoir initié, à la date de la présente ordonnance, des démarches auprès de la maison départementale des personnes handicapées tendant à la présence d'un AESH, et à la production d'un " plan personnalisé de scolarisation " permettant de coordonner les modalités de déroulement de la scolarité et les actions pédagogiques, psychologiques, éducatives, sociales, médicales et paramédicales répondant aux besoins particuliers des élèves présentant un handicap, alors qu'elle a été mise en demeure par la décision en litige qui lui a été notifiée en juin 2025 d'inscrire sa fille dans un établissement d'enseignement scolaire et qu'elle ne justifie pas davantage avoir entrepris des démarches à cette fin. En outre, elle ne démontre pas que la scolarisation de son enfant en établissement ne permettrait pas de poursuivre son suivi par une orthophoniste et une kinésithérapeute une fois par semaine ou qu'une telle scolarisation contreviendrait à son intérêt supérieur compte tenu des contrôles opérés par l'administration et du fait que la scolarisation dans un établissement de la jeune B pourra faire l'objet de mesures particulières à mettre en place entre les membres de l'équipe éducative et ses parents, comme des horaires aménagés ou l'accompagnement d'une AESH pour ses temps de scolarisation après saisine de la CDAPH. Dans ces conditions, en l'état de l'instruction, aucune des circonstances invoquées, ni le certificat médical établi par un médecin généraliste qui se borne à constater le TSA déjà diagnostiqué, n'est de nature à établir l'urgence à statuer, sur le fondement de l'article L. 521-1 du code de justice administrative, sans attendre le jugement de la requête au fond.
+
+11. Il résulte de ce qui précède, et sans qu'il soit besoin de se prononcer sur l'existence d'un moyen propre à créer un doute sérieux quant à la légalité des décisions contestées, ni de se prononcer sur la recevabilité de ses conclusions à fin d'annulation et aux fins indemnitaires, qu'il y a lieu de rejeter la requête de Mme D en toutes ses conclusions, y compris celles tendant au prononcé d'une injonction.
+
+O R D O N N E :
+
+Article 1er : Les requêtes n° 2502468 et 2502469 présentées par Mme D sont rejetées.
+
+Article 2 : La présente ordonnance sera notifiée à Mme C D et à la ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche.
+
+Copie en sera adressée au recteur de l'académie de Bordeaux.
+
+Fait à Pau, le 16 septembre 2025.
+
+La juge des référés, La greffière,
+
+F. Madelaigue M. Caloone
+
+La République mande et ordonne à la ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche en ce qui la concerne ou à tous commissaires de justice à ce requis en ce qui concerne les voies de droit commun, contre les parties privées, de pourvoir à l'exécution de la présente ordonnance.
+
+Pour expédition conforme,
+
+La greffière,
+
+N°s 2502468 ; 2502469
