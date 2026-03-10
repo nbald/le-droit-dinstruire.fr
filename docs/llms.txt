@@ -10,7 +10,7 @@ Ce site explique le cadre juridique de l'instruction en famille (IEF) en France 
 - [Contester un refus](https://le-droit-dinstruire.fr/contester/legalite-refus/): Vérifier la légalité, RAPO, tribunal administratif, référé-suspension.
 - [Le droit d'instruire en Europe](https://le-droit-dinstruire.fr/europe/cedh/): Ce que dit la CEDH, comparaison avec les voisins européens.
 - [Après l'autorisation](https://le-droit-dinstruire.fr/apres/controle-pedagogique/): Le contrôle pédagogique, l'enquête de mairie, questions pratiques.
-- [Le coût humain](https://le-droit-dinstruire.fr/cout-humain/): L'impact sur les familles.
+- [Le coût humain](https://le-droit-dinstruire.fr/cout-humain): L'impact sur les familles.
 - [Décisions de justice](https://le-droit-dinstruire.fr/decisions/): Jurisprudence commentée, classée par tribunal et par date.
 - [Qui sommes-nous](https://le-droit-dinstruire.fr/a-propos/): L'équipe derrière le site.
 - [Glossaire](https://le-droit-dinstruire.fr/a-propos/glossaire/): Définitions des termes juridiques utilisés.
@@ -49,7 +49,7 @@ Ce site explique le cadre juridique de l'instruction en famille (IEF) en France 
 - [Questions pratiques](https://le-droit-dinstruire.fr/apres/questions-pratiques/)
 
 ### Le coût humain
-- [Le coût humain](https://le-droit-dinstruire.fr/cout-humain/)
+- [Le coût humain](https://le-droit-dinstruire.fr/cout-humain)
 
 ### Référence
 - [Décisions de justice](https://le-droit-dinstruire.fr/decisions/)

@@ -6,7 +6,7 @@ Le guide de référence sur l'instruction en famille en France, fondé sur l'ana
 
 ## De quoi s'agit-il ?
 
-Depuis la loi du 24 août 2021, l'instruction en famille (IEF) est soumise à autorisation préalable. Les familles font face à un paysage administratif et juridique complexe. Ce site rassemble plus de 150 décisions de justice (2013–2026) et explique, en langage clair, ce que dit réellement la jurisprudence — de la stratégie de dépôt au recours contentieux.
+Depuis la loi du 24 août 2021, l'instruction en famille (IEF) est soumise à autorisation préalable. Les familles font face à un paysage administratif et juridique complexe. Ce site rassemble plus de 159 décisions de justice (2013–2026) et explique, en langage clair, ce que dit réellement la jurisprudence — de la stratégie de dépôt au recours contentieux.
 
 ## Stack technique
 
@@ -28,10 +28,11 @@ Le site sera accessible sur `http://localhost:8008`.
 docs/
 ├── preparer/       # Préparer sa demande d'autorisation
 ├── contester/      # Contester un refus
-├── apres/          # Après l'autorisation (contrôles, enquêtes)
 ├── europe/         # Droit européen (CEDH, comparaison)
-├── decisions/      # 150+ décisions de justice (texte intégral)
-├── a-propos/       # À propos et glossaire
+├── apres/          # Après l'autorisation (contrôles, enquêtes)
+├── cout-humain/    # Le coût humain
+├── decisions/      # 159 décisions de justice (texte intégral)
+├── a-propos/       # Qui sommes-nous et glossaire
 └── index.md        # Page d'accueil
 mkdocs.yml          # Configuration du site
 ```

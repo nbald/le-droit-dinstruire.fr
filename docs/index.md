@@ -73,7 +73,7 @@ Vous envisagez l'instruction en famille ? Commencez par comprendre les quatre mo
 
 ## Le coût humain
 
-- [Le coût humain](cout-humain.md) — l'impact sur les familles
+- [Le coût humain](cout-humain/index.md) — l'impact sur les familles
 
 ## Décisions
 
