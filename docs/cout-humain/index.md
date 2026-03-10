@@ -25,7 +25,7 @@ Dans ces affaires, des familles ont documenté une situation médicale ou psycho
 
     **Le coût humain.** Une enfant autiste de 6 ans, que sa famille instruit depuis quatre ans, est renvoyée dans un environnement scolaire ordinaire sans qu'aucun aménagement ne soit en place — ni AESH, ni PPS, rien. Le tribunal ne demande pas à l'administration de prouver que l'école conviendrait à cette enfant. Il reproche à la mère de ne pas avoir préparé elle-même les conditions d'une scolarisation qu'elle conteste.
 
-    [TA Pau réf., 16 septembre 2025, n° 2502468](decisions/2025/ta-pau/2025-09-16-2502468/index.md)
+    [TA Pau réf., 16 septembre 2025, n° 2502468](../decisions/2025/ta-pau/2025-09-16-2502468/index.md)
 
 ??? danger "Le père violent n'a pas signé : l'enfant handicapé perd son IEF"
 
@@ -39,7 +39,7 @@ Dans ces affaires, des familles ont documenté une situation médicale ou psycho
 
     **Le coût humain.** Un enfant handicapé, déjà fragilisé par le conflit parental, voit son cadre d'instruction supprimé parce que son père — contre lequel sa mère a déposé plainte pour violences — refuse de signer. Le tribunal ne se prononce pas sur l'intérêt de l'enfant mais sur une question de forme. Le rapport de la psychologue est écarté en une phrase.
 
-    [TA Toulouse réf., 7 août 2024, n° 2404840](decisions/2024/ta-toulouse/2024-08-07-2404840/index.md)
+    [TA Toulouse réf., 7 août 2024, n° 2404840](../decisions/2024/ta-toulouse/2024-08-07-2404840/index.md)
 
 ??? danger "Deux sœurs, cinq et sept ans, troubles anxieux — aucun moyen jugé sérieux"
 
@@ -53,7 +53,7 @@ Dans ces affaires, des familles ont documenté une situation médicale ou psycho
 
     **Le coût humain.** Deux petites filles dont l'une avec une suspicion de TDAH, l'autre avec une perte d'audition. Un rapport copié-collé d'une sœur à l'autre, des supports pédagogiques que l'inspectrice n'a pas examinés. Le juge balaie l'ensemble des moyens en une phrase, sans en discuter un seul.
 
-    [TA Versailles réf., 23 mai 2025, n° 2504659](decisions/2025/ta-versailles/2025-05-23-2504659/index.md)
+    [TA Versailles réf., 23 mai 2025, n° 2504659](../decisions/2025/ta-versailles/2025-05-23-2504659/index.md)
 
 ??? danger "Mauvaise case cochée : le refus est confirmé"
 
@@ -67,7 +67,7 @@ Dans ces affaires, des familles ont documenté une situation médicale ou psycho
 
     **Le coût humain.** Un enfant en souffrance scolaire, des parents piégés par un formulaire administratif. Les TSA sont suspectés mais pas encore diagnostiqués faute de rendez-vous au CRA. Le tribunal reconnaît que l'enfant va mal, mais le droit administratif ne laisse pas de place à l'entre-deux.
 
-    [TA Poitiers réf., 20 juin 2025, n° 2501673](decisions/2025/ta-poitiers/2025-06-20-2501673/index.md)
+    [TA Poitiers réf., 20 juin 2025, n° 2501673](../decisions/2025/ta-poitiers/2025-06-20-2501673/index.md)
 
 ## Quand il faut un juge pour protéger l'enfant
 
@@ -87,7 +87,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** Un adolescent de 13 ans en arrive à des idées suicidaires et vomit à la seule perspective de franchir la grille d'un collège. Pendant des mois, l'administration lui oppose des dispositifs théoriques qui ont déjà échoué et conteste la réalité du harcèlement. Il aura fallu un juge des référés pour que deux certificats médicaux d'éviction soient enfin pris en compte.
 
-    [TA Lille réf., 8 décembre 2025, n° 2510903](decisions/2025/ta-lille/2025-12-08-2510903/index.md)
+    [TA Lille réf., 8 décembre 2025, n° 2510903](../decisions/2025/ta-lille/2025-12-08-2510903/index.md)
 
 ??? danger "Dépression majeure et phobie scolaire : une ado déscolarisée depuis des mois"
 
@@ -101,7 +101,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** Une adolescente souffrant de dépression majeure se retrouve sans instruction pendant des mois. Le psychiatre qui la suit depuis des années dit qu'elle ne peut pas retourner en classe. L'académie estime le contraire, sans produire d'avis médical.
 
-    [TA Rennes, 10 juillet 2025, n° 2501177](decisions/2025/ta-rennes/2025-07-10-2501177/index.md)
+    [TA Rennes, 10 juillet 2025, n° 2501177](../decisions/2025/ta-rennes/2025-07-10-2501177/index.md)
 
 ??? danger "Harcelée au collège, elle développe une phobie scolaire"
 
@@ -115,7 +115,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** Une enfant victime de harcèlement scolaire et de violences conjugales, instruite en famille depuis un an et demi avec des résultats jugés satisfaisants. L'académie proposait de la renvoyer dans le cadre scolaire qui l'avait brisée. La « bienveillance » promise n'efface pas le traumatisme vécu.
 
-    [TA Limoges, 21 octobre 2025, n° 2501624](decisions/2025/ta-limoges/2025-10-21-2501624/index.md)
+    [TA Limoges, 21 octobre 2025, n° 2501624](../decisions/2025/ta-limoges/2025-10-21-2501624/index.md)
 
 ??? danger "14 ans, phobique scolaire, suivi en dispositif hospitalier"
 
@@ -129,7 +129,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** Un adolescent si angoissé qu'il relève d'un dispositif hospitalier pour décrocheurs. Trois professionnels de santé attestent de sa souffrance et de sa volonté d'apprendre. L'académie refuse parce que leurs certificats ne mentionnent pas « explicitement » l'instruction en famille.
 
-    [TA Limoges, 21 octobre 2025, n° 2501513](decisions/2025/ta-limoges/2025-10-21-2501513/index.md)
+    [TA Limoges, 21 octobre 2025, n° 2501513](../decisions/2025/ta-limoges/2025-10-21-2501513/index.md)
 
 ??? danger "13 ans, phobie scolaire : deux ans sans école, aucune solution proposée"
 
@@ -143,7 +143,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** Une enfant déscolarisée depuis deux ans, avec des certificats psychiatriques clairs, et l'administration refuse encore. Pendant ce temps, aucun aménagement n'a été mis en place : « rien n'a été mis en place pour l'année scolaire 2024/2025 ». Il a fallu un juge pour que cette adolescente obtienne le droit de continuer à apprendre.
 
-    [TA Caen réf., 16 septembre 2025, n° 2502810](decisions/2025/ta-caen/2025-09-16-2502810/index.md)
+    [TA Caen réf., 16 septembre 2025, n° 2502810](../decisions/2025/ta-caen/2025-09-16-2502810/index.md)
 
 ??? danger "À 4 ans, il supplie ses parents de ne pas l'emmener à l'école"
 
@@ -157,7 +157,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** Un enfant de quatre ans qui vomit et ne dort plus à cause de l'école. Qui supplie, en pleine nuit, qu'on ne l'y ramène pas. Le médecin scolaire écarte les preuves médicales en une phrase, sans explication.
 
-    [TA Limoges réf., 28 août 2023, n° 2301433](decisions/2023/ta-limoges/2023-08-28-2301433/index.md)
+    [TA Limoges réf., 28 août 2023, n° 2301433](../decisions/2023/ta-limoges/2023-08-28-2301433/index.md)
 
 ??? danger "Une fillette de 4 ans traumatisée par sa première scolarisation"
 
@@ -171,7 +171,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** Une enfant de quatre ans n'a pas les mots pour expliquer sa détresse. Elle l'exprime par des crises d'angoisse, des troubles du sommeil, un refus de manger. Malgré deux certificats médicaux concordants et un contrôle pédagogique favorable, l'administration a préféré nier la réalité de sa souffrance plutôt que d'appliquer les critères que la loi lui imposait.
 
-    [TA Toulon réf., 31 juillet 2025, n° 2502781](decisions/2025/ta-toulon/2025-07-31-2502781/index.md)
+    [TA Toulon réf., 31 juillet 2025, n° 2502781](../decisions/2025/ta-toulon/2025-07-31-2502781/index.md)
 
 ### Autisme et troubles du neurodéveloppement
 
@@ -187,7 +187,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** Tous les professionnels de santé sont unanimes. L'enfant lui-même met des mots sur sa souffrance. L'académie oppose un « il n'est pas établi » face à un faisceau de preuves concordantes. Il aura fallu un recours en référé, un avocat et une audience pour que la parole d'un enfant de 12 ans soit entendue.
 
-    [TA Toulouse réf., 16 juillet 2025, n° 2504289](decisions/2025/ta-toulouse/2025-07-16-2504289/index.md)
+    [TA Toulouse réf., 16 juillet 2025, n° 2504289](../decisions/2025/ta-toulouse/2025-07-16-2504289/index.md)
 
 ??? danger "Autiste, elle s'effondre après le retrait de son AESH individuelle"
 
@@ -201,7 +201,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** Cette enfant a dû renoncer à la musique et au cirque, épuisée par une scolarisation inadaptée. Sa mère indique qu'elle « peinait même pour ses suivis paramédicaux ». L'académie promet des aménagements qu'elle est incapable de fournir.
 
-    [TA Limoges réf., 25 août 2025, n° 2501556](decisions/2025/ta-limoges/2025-08-25-2501556/index.md)
+    [TA Limoges réf., 25 août 2025, n° 2501556](../decisions/2025/ta-limoges/2025-08-25-2501556/index.md)
 
 ??? danger "Pas d'AESH disponible, IEF refusée quand même"
 
@@ -215,7 +215,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** L'académie brandit une notification MDPH de 2021 pour justifier un retour à l'école, tout en étant incapable de fournir l'accompagnement humain que cette même notification prévoit. On refuse l'IEF au nom d'aménagements qui n'existent pas encore. L'enfant, lui, a déjà payé le prix d'une première tentative de scolarisation ratée.
 
-    [TA Toulouse réf., 10 juillet 2024, n° 2403819](decisions/2024/ta-toulouse/2024-07-10-2403819/index.md)
+    [TA Toulouse réf., 10 juillet 2024, n° 2403819](../decisions/2024/ta-toulouse/2024-07-10-2403819/index.md)
 
 ??? danger "Deux frères instruits en famille avec succès — l'académie refuse"
 
@@ -229,7 +229,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** Deux adolescents instruits avec succès en famille depuis des années, dont l'un développe en pleine autonomie des projets en sciences et en électronique. L'administration oppose un dispositif générique pour élèves à haut potentiel, sans examiner la réalité de ces deux enfants pour qui la seule évocation de l'école provoque un stress post-traumatique.
 
-    [TA Paris, 5 mai 2025, n° 2421701](decisions/2025/ta-paris/2025-05-05-2421701/index.md)
+    [TA Paris, 5 mai 2025, n° 2421701](../decisions/2025/ta-paris/2025-05-05-2421701/index.md)
 
 ??? danger "Ses crises ont disparu hors de l'école, l'académie refuse quand même"
 
@@ -243,7 +243,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** Un enfant dont les crises ont disparu dès qu'il a quitté l'école — c'est documenté. L'académie écarte ces constats faute de diagnostic officiel. Le résultat concret compte moins que l'étiquette administrative.
 
-    [TA Poitiers, 23 septembre 2025, n° 2501670](decisions/2025/ta-poitiers/2025-09-23-2501670/index.md)
+    [TA Poitiers, 23 septembre 2025, n° 2501670](../decisions/2025/ta-poitiers/2025-09-23-2501670/index.md)
 
 ??? danger "Crises de panique depuis la maternelle, le tribunal annule le refus"
 
@@ -257,7 +257,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** Un enfant en crises de panique depuis la maternelle, deux certificats médicaux convergents, trois ans d'instruction réussie en famille. Il aura fallu un recours contentieux et des mois de procédure pour obtenir ce que le bon sens commandait dès le départ.
 
-    [TA Versailles, 14 novembre 2024, n° 2405873](decisions/2024/ta-versailles/2024-11-14-2405873/index.md)
+    [TA Versailles, 14 novembre 2024, n° 2405873](../decisions/2024/ta-versailles/2024-11-14-2405873/index.md)
 
 ### Santé et handicap physique
 
@@ -273,7 +273,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** L'administration invoque des aménagements qu'elle est elle-même incapable de mettre en place, enfermant cette famille dans une impasse kafkaïenne. Une enfant qui lit trois fois moins vite que ses camarades est renvoyée en classe sans aucune aide concrète. Sa mère ne demandait qu'un accompagnement AESH — on le lui a refusé, puis on lui a refusé l'alternative.
 
-    [TA Caen réf., 8 octobre 2025, n° 2503003](decisions/2025/ta-caen/2025-10-08-2503003/index.md)
+    [TA Caen réf., 8 octobre 2025, n° 2503003](../decisions/2025/ta-caen/2025-10-08-2503003/index.md)
 
 ??? danger "PAI non respecté — l'enfant finit aux urgences"
 
@@ -287,7 +287,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** L'école avait un protocole de soins à suivre. Elle ne l'a pas fait. L'enfant a fini aux urgences ophtalmologiques avec un risque de lésion cornéenne irréversible. Quand l'académie invoque ce même PAI défaillant pour refuser l'instruction en famille, elle demande aux parents de faire confiance à un système qui a déjà failli.
 
-    [TA Poitiers, 30 septembre 2025, n° 2502621](decisions/2025/ta-poitiers/2025-09-30-2502621/index.md)
+    [TA Poitiers, 30 septembre 2025, n° 2502621](../decisions/2025/ta-poitiers/2025-09-30-2502621/index.md)
 
 ??? danger "À 4 ans, mutique et en pleurs, l'école dit « plein épanouissement »"
 
@@ -301,7 +301,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
     **Le coût humain.** Une enfant de 4 ans qui pleure chaque jour, qui ne mange plus, qui ne parle plus. La directrice de l'école écrit qu'elle est en « plein épanouissement ». Le psychologue qui la suit constate l'inverse. L'académie retient l'avis de la directrice.
 
-    [TA Poitiers, 23 septembre 2025, n° 2501632](decisions/2025/ta-poitiers/2025-09-23-2501632/index.md)
+    [TA Poitiers, 23 septembre 2025, n° 2501632](../decisions/2025/ta-poitiers/2025-09-23-2501632/index.md)
 
 ## La violence de la procédure
 
@@ -319,7 +319,7 @@ Au-delà du refus lui-même, la procédure elle-même pèse sur les familles. Mi
 
     **Le coût humain.** Quatre enfants autistes, une famille entière sous menace pénale. Rejet de tri le 26 décembre, sans audience, sans examen du fond. Les deux mois écoulés entre le rejet du RAPO et le dépôt des référés — le temps de trouver un avocat et de monter quatre dossiers — suffisent à écarter la condition d'urgence.
 
-    [TA Versailles réf., 26 décembre 2025, n° 2515237](decisions/2025/ta-versailles/2025-12-26-2515237/index.md)
+    [TA Versailles réf., 26 décembre 2025, n° 2515237](../decisions/2025/ta-versailles/2025-12-26-2515237/index.md)
 
 ## Et ceux qui ne vont pas au tribunal ?
 
