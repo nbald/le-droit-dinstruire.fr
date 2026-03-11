@@ -33,10 +33,11 @@ Concrètement, l'obligation s'applique « à compter de la rentrée scolaire de 
 
 La demande doit être adressée au DASEN **entre le 1er mars et le 31 mai** précédant l'année scolaire concernée ([art. R. 131-11 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175616)).
 
-**Exceptions** : une demande peut être déposée **en dehors de cette période** si le motif est apparu après le 31 mai et qu'il tient :
+Une demande peut être déposée **en dehors de cette période** si le motif est apparu après le 31 mai et qu'il tient :
 
 - à l'**état de santé** de l'enfant ou à son **handicap** (motifs 1a / 1b) ;
-- à son **éloignement géographique** de tout établissement scolaire public (motif 3b — mais pas le motif 3a itinérance).
+- à son **éloignement géographique** de tout établissement scolaire public (motif 3b — mais pas le motif 3a itinérance) ;
+- à une menace pour l'**intégrité physique ou morale** de l'enfant (voir [ci-dessous](#cas-durgence-integrite-physique-ou-morale-menacee)).
 
 Les motifs 2 (activités intensives), 3a (itinérance) et 4 (situation propre) ne permettent pas de demande hors délai.
 
@@ -44,9 +45,20 @@ Les motifs 2 (activités intensives), 3a (itinérance) et 4 (situation propre) n
 
     Si l'administration ne répond pas dans un délai de **deux mois**, le silence vaut acceptation ([art. L. 131-5, al. 8, du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594)). En pratique, les académies répondent presque toujours dans les délais.
 
+### Cas d'urgence : intégrité physique ou morale menacée
+
+Lorsqu'après concertation avec le directeur d'établissement, il est établi que l'intégrité physique ou morale de l'enfant est menacée, les parents peuvent **commencer l'IEF immédiatement**, sans attendre la réponse du DASEN, tout en ayant déposé la demande d'autorisation ([art. L. 131-5, al. 14](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594) et [art. R. 131-11-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175635)).
+
+**Pièces supplémentaires** :
+
+- Avis circonstancié du directeur d'établissement sur le projet d'IEF[^cerfa]
+- Tout document utile établissant que l'intégrité physique ou morale de l'enfant est menacée
+
+Le DASEN accuse réception **sans délai** et instruit la demande normalement.
+
 ## Le formulaire et les pièces
 
-La demande se fait au moyen d'un **formulaire dont le modèle est fixé par le ministère** ([art. R. 131-11-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175618)). Certaines académies proposent leur propre formulaire en ligne ; d'autres acceptent le CERFA.
+La demande se fait au moyen d'un **formulaire dont le modèle est fixé par le ministère** ([art. R. 131-11-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175618)). Le formulaire officiel est le CERFA n° 16212[^cerfa]. Certaines académies proposent leur propre **plateforme en ligne** — par exemple [l'académie de Grenoble](https://demarche.numerique.gouv.fr/commencer/demande-d-autorisation-d-instruction-dans-la-famil-7) — ; d'autres acceptent le CERFA papier.
 
 **Pièces obligatoires** ([art. R. 131-11-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175618)) :
 
@@ -56,26 +68,47 @@ La demande se fait au moyen d'un **formulaire dont le modèle est fixé par le m
 4. Un justificatif de domicile
 5. Un justificatif d'identité de la personne chargée d'instruire l'enfant (si ce n'est pas un parent)
 
+**Précisions du CERFA**[^cerfa] :
+
+- **Identité de l'enfant** : CNI (recto/verso) ou passeport en cours de validité, ou livret de famille, ou extrait d'acte de naissance
+- **Identité des titulaires de l'autorité parentale** : CNI ou passeport — en cours de validité ou périmé depuis moins de 5 ans
+- **Identité de la personne instructrice** (si ≠ parent) : CNI ou passeport (mêmes conditions)
+- **Si l'autorité parentale ≠ parents** : copie du document attestant que les demandeurs sont titulaires de l'autorité parentale
+- **Justificatif de domicile** : de moins d'un an
+- **Double signature** : le formulaire doit être signé par les **deux personnes titulaires de l'autorité parentale**, même si l'enfant était déjà instruit en famille l'année précédente. Voir [Séparation parentale](separation-parentale.md) en cas de désaccord.
+
+!!! tip "Hébergé chez un tiers ?"
+
+    Si le titulaire de l'autorité parentale n'a pas de justificatif de domicile à son nom, le CERFA demande trois documents : (1) copie de la pièce d'identité de l'hébergeant, (2) lettre originale signée certifiant l'hébergement, (3) justificatif de domicile au nom de l'hébergeant de moins d'un an.
+
+!!! tip "Préparez aussi"
+
+    Le formulaire demande également : le **dernier établissement scolaire** fréquenté (année, niveau, nom et adresse), le **lieu d'instruction** (domicile du parent 1 ou 2), et le cas échéant l'identité de l'**organisme d'enseignement à distance**. Ayez ces informations sous la main.
+
 **Pièces supplémentaires selon le motif :**
 
 | Motif | Pièces à fournir |
 |---|---|
 | **1a — Santé** | **Certificat médical** de moins d'un an, **sous pli fermé**, attestant de la pathologie de l'enfant<br>Le DASEN transmet le certificat sous pli fermé au **médecin de l'éducation nationale**, qui rend un avis sur la demande.<br>([art. R. 131-11-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175620)) |
-| **1b — Handicap** | • **Certificat médical** prévu par l'[art. R. 146-26 du CASF](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032410518), **sous pli fermé**<br>**ou** • **Décisions** relatives à l'instruction de l'enfant de la [commission des droits et de l'autonomie des personnes handicapées](../a-propos/glossaire.md) (CDAPH)<br>Le DASEN transmet le certificat sous pli fermé au **médecin de l'éducation nationale**, qui rend un avis sur la demande.<br>([art. R. 131-11-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175620)) |
+| **1b — Handicap** | • **Certificat médical** prévu par l'[art. R. 146-26 du CASF](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032410518) (**CERFA n° 15695**[^cerfa]), **sous pli fermé**<br>**ou** • **Décisions** relatives à l'instruction de l'enfant de la [commission des droits et de l'autonomie des personnes handicapées](../a-propos/glossaire.md) (CDAPH)<br>Le DASEN transmet le certificat sous pli fermé au **médecin de l'éducation nationale**, qui rend un avis sur la demande.<br>([art. R. 131-11-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175620)) |
 | **2a — Sport / 2b — Art intensif** | 1° Une **attestation d'inscription** auprès d'un organisme sportif ou artistique<br>2° Une présentation de **l'organisation du temps** de l'enfant, de ses engagements et de ses contraintes établissant qu'il **ne peut fréquenter assidûment** un établissement d'enseignement public ou privé.<br>([art. R. 131-11-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175622)) |
 | **3a — Itinérance** | Toutes pièces utiles justifiant de l'**impossibilité pour l'enfant de fréquenter assidûment**, pour ces raisons, un établissement d'enseignement public ou privé.<br>([art. R. 131-11-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175629)) |
 | **3b — Éloignement** | Toutes pièces utiles **établissant cet éloignement** géographique de tout établissement scolaire public.<br>([art. R. 131-11-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175629)) |
 | **4 — Situation propre** | 1° **Présentation écrite du projet éducatif** comportant les éléments essentiels de l'enseignement et de la pédagogie adaptés aux capacités et au rythme d'apprentissage de l'enfant.<br>2° Toutes **pièces utiles justifiant de la disponibilité** de la ou des personnes chargées d'instruire l'enfant<br>3° Une **copie du diplôme du baccalauréat** ou de son équivalent de la personne chargée d'instruire l'enfant<br>4° Une **déclaration sur l'honneur** de la ou des personnes chargées d'instruire l'enfant d'assurer cette instruction **majoritairement en langue française**<br>([art. R. 131-11-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175631)) |
 
-!!! warning "Dossier incomplet = refus"
+!!! warning "Dossier incomplet"
 
-    Un dossier incomplet peut être refusé sans même que le médecin de l'Éducation nationale soit saisi ([TA Caen, 3 février 2026, n° 2303194](../decisions/2026/ta-caen/2026-02-03-2303194/index.md)). Vérifiez chaque pièce avant l'envoi.
+    La DSDEN accuse réception de la demande et indique, le cas échéant, les documents manquants. La famille dispose alors de **15 jours** pour compléter le dossier[^cerfa]. Un dossier qui reste incomplet après ce délai peut être refusé sans même que le médecin de l'Éducation nationale soit saisi ([TA Caen, 3 février 2026, n° 2303194](../decisions/2026/ta-caen/2026-02-03-2303194/index.md)).
 
 ## L'académie compétente
 
 La demande est adressée au **DASEN du département de résidence de l'enfant** ([art. R. 131-11](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175616)). C'est le lieu de résidence effective qui compte, pas le lieu de naissance ni l'académie de l'année précédente.
 
 **En cas de déménagement** : les formalités doivent être accomplies dans les **huit jours** suivant le changement de résidence ([art. L. 131-5, al. 2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594)).
+
+!!! info "Vérification des fichiers judiciaires"
+
+    L'administration vérifie que la personne chargée d'instruire l'enfant n'est pas inscrite au fichier des auteurs d'infractions terroristes (FIJAIT) ni au fichier des auteurs d'infractions sexuelles ou violentes (FIJAISV) ([art. L. 131-11-1 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043977585)).
 
 ## L'information du maire
 
@@ -132,3 +165,5 @@ Les motifs 2, 3 et 4 ne permettent pas d'autorisation pluriannuelle.
 ## Le refus d'autorisation
 
 Si votre demande est refusée, vous devez d'abord exercer un **recours administratif préalable obligatoire** ([RAPO](../a-propos/glossaire.md)) auprès de la commission académique présidée par le recteur, avant de pouvoir saisir le tribunal. Cette procédure est détaillée dans la rubrique [Contester](../contester/aide.md).
+
+[^cerfa]: [CERFA n° 16212*05 — Demande d'autorisation d'instruction dans la famille](https://www.formulaires.service-public.gouv.fr/gf/cerfa_16212.do). Le PDF comprend le formulaire (pages 5–8) et sa notice explicative (pages 1–4).
