@@ -30,8 +30,9 @@ docs/
 ├── contester/      # Contester un refus
 ├── europe/         # Droit européen (CEDH, comparaison)
 ├── apres/          # Après l'autorisation (contrôles, enquêtes)
-├── cout-humain/    # Le coût humain
-├── decisions/      # 159 décisions de justice (texte intégral)
+├── cout-humain/        # Le coût humain
+├── proposition-de-loi/ # Analyse de la proposition de loi n° 2273
+├── decisions/          # 159 décisions de justice (texte intégral)
 ├── a-propos/       # Qui sommes-nous et glossaire
 └── index.md        # Page d'accueil
 mkdocs.yml          # Configuration du site

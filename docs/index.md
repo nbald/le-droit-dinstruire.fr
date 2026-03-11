@@ -75,6 +75,10 @@ Vous envisagez l'instruction en famille ? Commencez par comprendre les quatre mo
 
 - [Le coût humain](cout-humain/index.md) — l'impact sur les familles
 
+## Proposition de loi
+
+- [Proposition de loi n° 2273](proposition-de-loi/index.md) — analyse du texte visant à rétablir un régime déclaratif
+
 ## Décisions
 
 Plus de 150 décisions de justice pertinentes en texte intégral, classées par année et juridiction.
