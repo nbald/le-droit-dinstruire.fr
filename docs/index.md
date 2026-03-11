@@ -36,7 +36,7 @@ Vous envisagez l'instruction en famille ? Commencez par comprendre les quatre mo
 
 - [La procédure](preparer/procedure.md) — calendrier, formulaire, pièces à joindre
 - [Motif 1 — Santé et handicap](preparer/motif-1-sante.md) — le seul motif pouvant donner une autorisation pluriannuelle
-- [Motif 2 — Activité intensive](preparer/motif-2-activite.md) — sport ou art de haut niveau
+- [Motif 2 — Activité intensive](preparer/motif-2-activite.md) — activités sportives ou artistiques intensives
 - [Motif 3 — Itinérance et éloignement](preparer/motif-3-itinerance.md) — familles qui voyagent ou vivent loin d'un établissement
 - [Motif 4 — Situation propre de l'enfant](preparer/motif-4-situation-propre.md) — le motif le plus invoqué et le plus litigieux
 - [Le projet pédagogique](preparer/projet-pedagogique.md) — ce que les tribunaux exigent
