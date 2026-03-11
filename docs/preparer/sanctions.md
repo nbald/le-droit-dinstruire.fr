@@ -30,7 +30,7 @@ D'autres textes prévoient des sanctions moins lourdes :
 |---|---|---|
 | [Art. 227-17-1 al. 1 CP](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982715) | Ne pas inscrire son enfant malgré mise en demeure | 6 mois prison + 7 500 € |
 | [Art. R131-18 C. éduc.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045176272) | Ne pas inscrire son enfant ou ne pas obtenir l'autorisation d'IEF | 1 500 € (contrav. 5^e^ classe) |
-| [Art. R624-7 CP](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419506) | Manquement à l'assiduité scolaire après avertissement | 750 € (contrav. 4^e^ classe) |
+| [Art. R624-7 CP](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025165681) | Manquement à l'assiduité scolaire après avertissement | 750 € (contrav. 4^e^ classe) |
 
 ## Les poursuites pénales : une réalité depuis 2023
 
@@ -208,7 +208,7 @@ Le risque pénal est désormais avéré pour les familles en désobéissance civ
 
 ??? warning "L'information préoccupante"
 
-    Lorsqu'un enfant fait l'objet d'une [information préoccupante](../a-propos/glossaire.md) (au sens de l'[art. L. 226-3 du CASF](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982585)), le président du conseil départemental en informe le DASEN, qui peut alors **suspendre ou abroger l'autorisation** d'IEF ([art. L. 131-5, al. 10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594)).
+    Lorsqu'un enfant fait l'objet d'une [information préoccupante](../a-propos/glossaire.md) (au sens de l'[art. L. 226-3 du CASF](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045137055)), le président du conseil départemental en informe le DASEN, qui peut alors **suspendre ou abroger l'autorisation** d'IEF ([art. L. 131-5, al. 10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594)).
 
     C'est le levier le plus redouté des familles — et le plus utilisé dans les situations de conflit prolongé avec l'administration. Le risque est davantage un **contrôle social** (évaluation par les services départementaux) qu'une sanction pénale.
 

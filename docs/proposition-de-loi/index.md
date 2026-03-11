@@ -107,7 +107,7 @@ Dans un régime purement déclaratif, les familles **n'ont pas à donner de rais
 
 ### Le volet pénal
 
-L'[article 227-17-1 du code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043983456) (6 mois d'emprisonnement et 7 500 € d'amende pour non-respect d'une mise en demeure de scolariser) **n'est pas modifié**. Le texte ne clarifie pas comment la chaîne de sanctions s'articule avec le nouveau régime déclaratif. Voir notre page [Ce qu'on risque vraiment](../preparer/sanctions.md).
+L'[article 227-17-1 du code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982715) (6 mois d'emprisonnement et 7 500 € d'amende pour non-respect d'une mise en demeure de scolariser) **n'est pas modifié**. Le texte ne clarifie pas comment la chaîne de sanctions s'articule avec le nouveau régime déclaratif. Voir notre page [Ce qu'on risque vraiment](../preparer/sanctions.md).
 
 ### Le CNED réglementé
 

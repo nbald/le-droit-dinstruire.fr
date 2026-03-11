@@ -72,7 +72,7 @@ Pour une famille de trois enfants d'âges différents, cela représente plus de 
 
 ??? info "Les cours par correspondance privés"
 
-    Les organismes privés (Cours Legendre, Hattemer, Cours PI, Ker Lann, etc.) sont dans une situation **ambiguë**. L'[article R543-3 du code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006750547) définit un « établissement ou organisme d'enseignement » comme tout organisme « qui a pour objet de dispenser un enseignement permettant aux enfants qui suivent cet enseignement de satisfaire à l'obligation scolaire ».
+    Les organismes privés (Cours Legendre, Hattemer, Cours PI, Ker Lann, etc.) sont dans une situation **ambiguë**. L'[article R543-3 du code de la sécurité sociale](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006750738) définit un « établissement ou organisme d'enseignement » comme tout organisme « qui a pour objet de dispenser un enseignement permettant aux enfants qui suivent cet enseignement de satisfaire à l'obligation scolaire ».
 
     En théorie, un enfant inscrit en **classe complète** dans un cours par correspondance agréé qui délivre un certificat de scolarité devrait ouvrir droit à l'ARS. En pratique, chaque CAF a sa propre interprétation, et la délivrance d'un certificat de scolarité n'est pas garantie par tous les organismes.
 
@@ -101,7 +101,7 @@ C'est ici que la situation devient critique. Sans certificat de scolarisation ni
 - **Complément familial** : supprimé si l'enfant concerné est le seul à justifier le seuil de 3 enfants
 - **Allocation de soutien familial** : supprimée
 - **AEEH** (allocation enfant handicapé) : supprimée — un point dénoncé comme « inexplicable » par [LED'A](https://blog.lesenfantsdabord.org/ief-au-pied-du-mur/)
-- **RSA** : l'enfant n'étant plus « à charge » au sens de l'[article R262-3 du CASF](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031694477) (qui renvoie à l'[article L512-3 du CSS](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006743230), lui-même soumis à L552-4), le montant du RSA est recalculé à la baisse
+- **RSA** : l'enfant n'étant plus « à charge » au sens de l'[article R262-3 du CASF](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022743618) (qui renvoie à l'[article L512-3 du CSS](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041979743), lui-même soumis à L552-4), le montant du RSA est recalculé à la baisse
 - **APL** : l'enfant peut être exclu du calcul du foyer
 
 ### L'ampleur des pertes

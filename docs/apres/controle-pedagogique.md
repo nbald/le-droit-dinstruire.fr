@@ -70,7 +70,7 @@ Le bilan du contrôle est notifié aux parents dans un délai maximum de **trois
 
 ??? success "Enregistrement du contrôle"
 
-    Aucune disposition du code de l'éducation ne traite de l'enregistrement. Les règles de droit commun s'appliquent : l'[article 226-1 du code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417929) incrimine la captation de paroles prononcées à titre privé ou confidentiel **sans le consentement** de leur auteur. Enregistrer l'inspecteur sans son accord pourrait donc constituer une infraction pénale.
+    Aucune disposition du code de l'éducation ne traite de l'enregistrement. Les règles de droit commun s'appliquent : l'[article 226-1 du code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049312755) incrimine la captation de paroles prononcées à titre privé ou confidentiel **sans le consentement** de leur auteur. Enregistrer l'inspecteur sans son accord pourrait donc constituer une infraction pénale.
 
 ??? success "Refuser des tests psychologiques"
 

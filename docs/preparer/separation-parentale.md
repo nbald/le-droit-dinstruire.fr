@@ -18,7 +18,7 @@ Lorsque les parents sont séparés, la demande d'[IEF](../a-propos/glossaire.md)
 
 ### L'IEF est un « acte important »
 
-L'exercice conjoint de l'[autorité parentale](../a-propos/glossaire.md) ([art. 372 du code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426513)) implique l'accord des deux parents pour les actes non usuels. La jurisprudence administrative qualifie le choix de l'IEF d'**acte important** :
+L'exercice conjoint de l'[autorité parentale](../a-propos/glossaire.md) ([art. 372 du code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043895534)) implique l'accord des deux parents pour les actes non usuels. La jurisprudence administrative qualifie le choix de l'IEF d'**acte important** :
 
 > « Le choix du mode de scolarisation de l'enfant entre dans la catégorie des **actes importants** en matière d'éducation devant être pris après concertation des deux parents. »
 
@@ -28,7 +28,7 @@ Le [TA Poitiers, 23 septembre 2025, n° 2500975](../decisions/2025/ta-poitiers/2
 
 ### La présomption d'accord tombe
 
-L'[article 372-2 du code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426519) crée une présomption : chaque parent est réputé agir avec l'accord de l'autre pour les actes usuels. Mais cette présomption **tombe dès que l'administration est informée du désaccord** :
+L'[article 372-2 du code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426536) crée une présomption : chaque parent est réputé agir avec l'accord de l'autre pour les actes usuels. Mais cette présomption **tombe dès que l'administration est informée du désaccord** :
 
 > « La circonstance qu'une décision puisse être regardée comme un acte usuel de l'autorité parentale a seulement pour effet de créer au regard des tiers une présomption d'accord des deux parents et **non de permettre à l'administration de faire droit à la demande d'un parent quand elle est informée du défaut d'accord de l'autre parent**. »
 
@@ -47,7 +47,7 @@ La [CAA Lyon, 28 mai 2024, n° 22LY01788](../decisions/2024/caa-lyon/2024-05-28-
 
 ### Seul le JAF tranche le désaccord
 
-Le [juge aux affaires familiales](../a-propos/glossaire.md) (JAF) est seul compétent pour trancher le désaccord entre les parents sur le choix IEF / école ([art. 373-2-6 du code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426766)).
+Le [juge aux affaires familiales](../a-propos/glossaire.md) (JAF) est seul compétent pour trancher le désaccord entre les parents sur le choix IEF / école ([art. 373-2-6 du code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049164431)).
 
 Le DASEN instruit la demande d'autorisation ([art. L. 131-5 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594)) mais **ne peut pas passer outre le désaccord**. La répartition des compétences est claire :
 
@@ -88,7 +88,7 @@ La logique est pragmatique : l'IEF en résidence alternée supposerait que les d
 
 | Situation | Issue | Référence |
 |---|---|---|
-| Accord des deux parents | IEF possible (sous réserve de l'autorisation DASEN) | [Art. 372 C. civ.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426513) |
+| Accord des deux parents | IEF possible (sous réserve de l'autorisation DASEN) | [Art. 372 C. civ.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043895534) |
 | Désaccord connu du DASEN | Refus obligatoire | [TA Paris, n° 2223170](../decisions/2023/ta-paris/2023-11-08-2223170/index.md) |
 | JAF autorise l'IEF | DASEN ne peut plus opposer le désaccord | [TA Poitiers, n° 2500975](../decisions/2025/ta-poitiers/2025-09-23-2500975/index.md) |
 | Garde alternée + désaccord | JAF privilégie la scolarisation | [CA Limoges, n° 13/01037](../decisions/2013/ca-limoges/2013-08-21-13-01037/index.md) |

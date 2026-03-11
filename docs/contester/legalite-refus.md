@@ -20,7 +20,7 @@ Le standard applicable est la jurisprudence *Danthony* : un vice n'entraîne l'a
 
 ### Ce que doit contenir la décision
 
-La décision de la [commission RAPO](../a-propos/glossaire.md) qui rejette votre recours doit être **motivée** : elle doit comporter les considérations de droit et de fait sur lesquelles elle se fonde ([art. L. 211-2 du CRPA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367712)).
+La décision de la [commission RAPO](../a-propos/glossaire.md) qui rejette votre recours doit être **motivée** : elle doit comporter les considérations de droit et de fait sur lesquelles elle se fonde ([art. L. 211-2 du CRPA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367505)).
 
 Concrètement, la décision doit au minimum :
 
@@ -51,7 +51,7 @@ La commission RAPO est encadrée par les [articles D. 131-11-10 à D. 131-11-13 
 
 ???+ success "L'arrêté de composition non publié"
 
-    Les membres de la commission sont nommés par arrêté du recteur ([art. D. 131-11-11 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175812)). Cet arrêté est un acte réglementaire : il n'entre en vigueur qu'après une **publicité adéquate** ([art. L. 221-2 du CRPA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367696)). Si l'arrêté n'a pas été publié, la commission a statué sans base légale.
+    Les membres de la commission sont nommés par arrêté du recteur ([art. D. 131-11-11 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175812)). Cet arrêté est un acte réglementaire : il n'entre en vigueur qu'après une **publicité adéquate** ([art. L. 221-2 du CRPA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367544)). Si l'arrêté n'a pas été publié, la commission a statué sans base légale.
 
     > [TA Strasbourg, 30 octobre 2023, n° 2304747](../decisions/2023/ta-strasbourg/2023-10-30-2304747/index.md) : les arrêtés de composition n'ont fait l'objet « d'aucune formalité de publicité ». Le tribunal juge les décisions entachées d'**incompétence**.
 
@@ -144,7 +144,7 @@ Un point important : l'annulation pour vice de procédure n'implique **jamais** 
 
 > [CAA Nantes, 9 juin 2023, n° 22NT03872](../decisions/2023/caa-nantes/2023-06-09-22NT03872/index.md) : la cour réforme l'injonction du TA, qui ne pouvait ordonner la délivrance de l'IEF. L'annulation pour vice de procédure implique seulement « un réexamen, après avoir diligenté le cas échéant un nouveau contrôle régulier ».
 
-En revanche, quand l'annulation repose sur une **erreur d'appréciation au fond**, le juge peut enjoindre de délivrer l'autorisation ([art. L. 911-1 du CJA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449863)). C'est pourquoi il est souvent plus efficace de contester **aussi** le fond.
+En revanche, quand l'annulation repose sur une **erreur d'appréciation au fond**, le juge peut enjoindre de délivrer l'autorisation ([art. L. 911-1 du CJA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311379)). C'est pourquoi il est souvent plus efficace de contester **aussi** le fond.
 
 ## En pratique
 
@@ -160,7 +160,7 @@ En revanche, quand l'annulation repose sur une **erreur d'appréciation au fond*
     - Le procès-verbal mentionne-t-il le vote à la majorité ?
     - *(Si contrôle pédagogique)* Le délai d'un mois entre les deux contrôles a-t-il été respecté ?
 
-    Ces éléments figurent rarement dans la décision elle-même. Pour les obtenir, vous pouvez demander la **communication des pièces administratives** (arrêté de composition, feuille d'émargement, procès-verbal) en invoquant le [droit d'accès aux documents administratifs](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218936) (art. L. 311-1 du CRPA). En cas de refus, saisissez la [CADA](https://www.cada.fr/).
+    Ces éléments figurent rarement dans la décision elle-même. Pour les obtenir, vous pouvez demander la **communication des pièces administratives** (arrêté de composition, feuille d'émargement, procès-verbal) en invoquant le [droit d'accès aux documents administratifs](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946) (art. L. 311-1 du CRPA). En cas de refus, saisissez la [CADA](https://www.cada.fr/).
 
 !!! warning "Ne vous limitez pas à la procédure"
 

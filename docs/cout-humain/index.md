@@ -305,7 +305,7 @@ Dans chaque affaire ci-dessous, l'administration a refusé l'IEF malgré une sit
 
 ## La violence de la procédure
 
-Au-delà du refus lui-même, la procédure elle-même pèse sur les familles. Mises en demeure sous quinze jours assorties de sanctions pénales ([art. 227-17-1 du code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418128) : six mois d'emprisonnement et 7 500 euros d'amende). Contrôles dont les rapports sont contestés mais rarement remis en cause. Et des délais de recours qui jouent souvent contre les familles.
+Au-delà du refus lui-même, la procédure elle-même pèse sur les familles. Mises en demeure sous quinze jours assorties de sanctions pénales ([art. 227-17-1 du code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982715) : six mois d'emprisonnement et 7 500 euros d'amende). Contrôles dont les rapports sont contestés mais rarement remis en cause. Et des délais de recours qui jouent souvent contre les familles.
 
 ??? danger "Quatre enfants autistes, vingt-quatre actes de procédure — pas d'audience"
 

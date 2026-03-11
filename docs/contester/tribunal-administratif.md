@@ -20,7 +20,7 @@ Lorsque le [RAPO](rapo.md) a échoué --- rejet explicite de la commission ou si
 
 Vous disposez de **deux mois** à compter de la notification de la décision de la commission RAPO pour déposer une requête devant le [TA](../a-propos/glossaire.md) ([art. R. 421-1 du CJA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039807005)). Passé ce délai, la requête est irrecevable.
 
-Si la commission n'a pas répondu dans le délai de deux mois suivant la réception de votre RAPO, le silence vaut rejet implicite. Le délai de recours contentieux de deux mois court alors à compter de la date de naissance de cette décision implicite, **sauf** si la commission ne vous a pas informé des voies et délais de recours --- auquel cas le délai n'est pas opposable pendant un an ([art. R. 421-5 du CJA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031370256)).
+Si la commission n'a pas répondu dans le délai de deux mois suivant la réception de votre RAPO, le silence vaut rejet implicite. Le délai de recours contentieux de deux mois court alors à compter de la date de naissance de cette décision implicite, **sauf** si la commission ne vous a pas informé des voies et délais de recours --- auquel cas le délai n'est pas opposable pendant un an ([art. R. 421-5 du CJA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449946)).
 
 ### Comment déposer
 
@@ -28,7 +28,7 @@ La voie la plus simple est **Télérecours citoyens**, la plateforme de dépôt 
 
 ### L'avocat
 
-Devant le TA, l'avocat **n'est pas obligatoire** pour un recours en annulation ([art. R. 431-2 du CJA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449662)). Vous pouvez rédiger et déposer votre requête vous-même.
+Devant le TA, l'avocat **n'est pas obligatoire** pour un recours en annulation ([art. R. 431-2 du CJA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033340889)). Vous pouvez rédiger et déposer votre requête vous-même.
 
 En pratique, un avocat connaissant le contentieux de l'IEF est un atout sérieux, notamment pour formuler correctement les conclusions (annulation **et** injonction), structurer l'argumentation juridique et répondre aux mémoires de l'administration. Plusieurs des jugements favorables analysés ci-dessous ont été obtenus avec l'aide d'un avocat.
 
@@ -44,7 +44,7 @@ C'est la conclusion de base : demander au tribunal d'annuler la décision de la 
 
 L'annulation seule ne suffit pas toujours. Si le tribunal annule le refus pour un simple vice de procédure, l'administration peut reprendre la même décision en corrigeant le vice --- et vous vous retrouvez au point de départ avec un simple réexamen.
 
-En revanche, si le tribunal annule le refus pour **erreur d'appréciation au fond**, il peut enjoindre à l'administration de délivrer l'autorisation d'IEF, éventuellement sous astreinte ([art. L. 911-1 du CJA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449863)).
+En revanche, si le tribunal annule le refus pour **erreur d'appréciation au fond**, il peut enjoindre à l'administration de délivrer l'autorisation d'IEF, éventuellement sous astreinte ([art. L. 911-1 du CJA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311379)).
 
 Il est donc recommandé de demander systématiquement, dans vos conclusions :
 
@@ -166,6 +166,6 @@ La constance de cette position sur trois ans, face à des moyens juridiques trè
 
     - une **demande préalable indemnitaire** adressée à l'administration ([art. R. 421-1 du CJA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039807005)) ;
     - un **RAPO** préalable ;
-    - des conclusions indemnitaires **irrecevables en référé** ([art. L. 521-1 du CJA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449324)) --- seul le juge du fond peut les examiner.
+    - des conclusions indemnitaires **irrecevables en référé** ([art. L. 521-1 du CJA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449326)) --- seul le juge du fond peut les examiner.
 
     En l'état de la jurisprudence, le recours indemnitaire ne constitue pas une stratégie réaliste. L'énergie est mieux investie dans l'obtention de l'annulation et de l'injonction.

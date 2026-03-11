@@ -86,7 +86,7 @@ Il est impossible de déposer dans plusieurs académies simultanément.
 
 Une décision prise par un DASEN **incompétent** (accord ou refus) est entachée d'un vice d'incompétence, d'ordre public. Ce vice est soulevable d'office par le juge.
 
-Le DASEN saisi à tort doit transmettre la demande au DASEN compétent ([art. L. 114-2 du CRPA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367345)). Mais si la transmission arrive après le 31 mai, la demande risque d'être rejetée pour tardiveté.
+Le DASEN saisi à tort doit transmettre la demande au DASEN compétent ([art. L. 114-2 du CRPA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367394)). Mais si la transmission arrive après le 31 mai, la demande risque d'être rejetée pour tardiveté.
 
 Une autorisation tacite née du silence d'un DASEN incompétent serait **illégale et retirable** dans les quatre mois ([art. L. 242-1 du CRPA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367657)) — [CAA Douai, 12 mars 2025, n° 23DA01188](../decisions/2025/caa-douai/2025-03-12-23DA01188/index.md).
 

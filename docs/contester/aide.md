@@ -78,11 +78,11 @@ Remplissez le [formulaire CERFA n° 16146*03](https://www.service-public.fr/part
 
 !!! tip "Demandez l'AJ dès le rejet du RAPO"
 
-    Le délai de recours contentieux de deux mois est **interrompu** par la demande d'aide juridictionnelle ([art. 43 du décret n° 2020-1717 du 28 décembre 2020](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000042726697)). Déposez votre demande d'AJ le plus tôt possible pour ne pas perdre votre délai.
+    Le délai de recours contentieux de deux mois est **interrompu** par la demande d'aide juridictionnelle ([art. 43 du décret n° 2020-1717 du 28 décembre 2020](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048869140)). Déposez votre demande d'AJ le plus tôt possible pour ne pas perdre votre délai.
 
 ### Couverture
 
-L'AJ couvre les honoraires d'avocat, les frais d'huissier et les frais d'expertise. En matière de contentieux administratif (annulation d'un refus d'IEF), il n'y a **pas de frais de justice** à proprement parler ([art. R. 761-1 du CJA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449957)) --- mais l'avocat est le poste principal.
+L'AJ couvre les honoraires d'avocat, les frais d'huissier et les frais d'expertise. En matière de contentieux administratif (annulation d'un refus d'IEF), il n'y a **pas de frais de justice** à proprement parler ([art. R. 761-1 du CJA](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028424620)) --- mais l'avocat est le poste principal.
 
 ## La protection juridique d'assurance
 

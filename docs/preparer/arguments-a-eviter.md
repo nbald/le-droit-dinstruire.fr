@@ -46,7 +46,7 @@ Les tribunaux répondent que le refus d'IEF **ne prive pas l'enfant d'instructio
 
 ## L'intérêt supérieur de l'enfant (art. 3-1 CIDE)
 
-L'[article 3-1 de la Convention internationale des droits de l'enfant](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006680397) impose que l'intérêt supérieur de l'enfant soit une « considération primordiale ». Les familles l'invoquent pour soutenir que l'IEF serait plus conforme à cet intérêt.
+L'[article 3-1 de la Convention internationale des droits de l'enfant](https://www.ohchr.org/fr/instruments-mechanisms/instruments/convention-rights-child#Article-3) impose que l'intérêt supérieur de l'enfant soit une « considération primordiale ». Les familles l'invoquent pour soutenir que l'IEF serait plus conforme à cet intérêt.
 
 Cet argument est systématiquement rejeté, **sauf** lorsque la situation propre est solidement documentée. La raison : les tribunaux considèrent que le régime d'autorisation **sert** l'intérêt de l'enfant. Si la famille ne démontre pas en quoi l'IEF serait davantage conforme à l'intérêt de l'enfant qu'une scolarisation en établissement, le moyen est écarté.
 
