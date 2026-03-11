@@ -1,11 +1,16 @@
 ---
-description: "Motif 3 de l'article L. 131-5 : IEF pour itinérance familiale ou éloignement géographique d'un établissement scolaire. Conditions et jurisprudence."
-keywords: "IEF itinérance, IEF éloignement, motif 3 IEF, voyage en famille, tour du monde, éloignement école"
+description: "Motif 3 de l'article L. 131-5 : IEF pour itinérance familiale (3a) ou éloignement géographique (3b) d'un établissement scolaire. Conditions et jurisprudence."
+keywords: "IEF itinérance, IEF éloignement, motif 3 IEF, motif 3a, motif 3b, voyage en famille, tour du monde, éloignement école"
 ---
 
 # Motif 3 — Itinérance et éloignement
 
-Le 3° de l'[article L. 131-5 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594) permet de demander l'[IEF](../a-propos/glossaire.md) en raison de **l'itinérance de la famille en France** ou de **l'éloignement géographique de tout établissement scolaire public**. Ce motif concerne deux situations distinctes : les familles qui se déplacent fréquemment sur le territoire, et celles dont le domicile est trop éloigné d'une école.
+Le 3° de l'[article L. 131-5 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594) permet de demander l'[IEF](../a-propos/glossaire.md) en raison de **l'itinérance de la famille en France** ou de **l'éloignement géographique de tout établissement scolaire public**. Sur le formulaire de demande, l'administration distingue deux sous-motifs :
+
+- **Motif 3a** — l'itinérance de la famille en France
+- **Motif 3b** — l'éloignement géographique de tout établissement scolaire public
+
+Ces deux motifs correspondent à des situations distinctes : les familles qui se déplacent fréquemment sur le territoire, et celles dont le domicile est trop éloigné d'une école.
 
 La jurisprudence reste **entièrement de première instance** : aucun arrêt de [CAA](../a-propos/glossaire.md) ni du [Conseil d'État](../a-propos/glossaire.md) ne porte spécifiquement sur ce motif.
 
@@ -200,7 +205,7 @@ En général, ne suffisent pas : une distance modérée (quelques kilomètres, 2
 
 Les familles de militaires ou de fonctionnaires soumis à des mutations fréquentes invoquent parfois le motif 3°. Les déménagements tous les trois ou quatre ans **ne constituent pas une itinérance** au sens du texte : ils permettent une scolarisation stable entre chaque mutation.
 
-De même, un **projet d'expatriation** ou des déplacements réguliers à l'étranger ne relèvent pas du motif 3°, qui vise exclusivement l'itinérance « en France ». Ces situations peuvent éventuellement être couvertes par le [motif 4°](motif-4-situation-propre.md) si elles caractérisent une situation propre à l'enfant.
+De même, un **projet d'expatriation** ou des déplacements réguliers à l'étranger ne relèvent pas du motif 3, qui vise exclusivement l'itinérance « en France ». Ces situations peuvent éventuellement être couvertes par le [motif 4](motif-4-situation-propre.md) si elles caractérisent une situation propre à l'enfant.
 
 ## Les pièges à éviter
 
@@ -214,6 +219,6 @@ De même, un **projet d'expatriation** ou des déplacements réguliers à l'étr
 
 **5. Confondre itinérance choisie et itinérance subie.** L'itinérance choisie peut fonctionner, mais elle exige une fréquence de déplacement très élevée — un changement de ville **tous les quelques jours** ([TA Bordeaux, 5 juin 2025, n° 2304765](../decisions/2025/ta-bordeaux/2025-06-05-2304765/index.md)). Un mode de vie semi-nomade concentré sur quelques départements ne suffit pas.
 
-**6. Oublier le motif de l'éloignement.** Les familles vivant en zone rurale isolée pensent parfois au motif 4° alors que le motif 3° (éloignement géographique) est plus adapté si le problème est la distance à l'école.
+**6. Oublier le motif de l'éloignement.** Les familles vivant en zone rurale isolée pensent parfois au motif 4 alors que le motif 3b (éloignement géographique) est plus adapté si le problème est la distance à l'école.
 
 Voir aussi : [Motif 4 — Situation propre](motif-4-situation-propre.md) · [Stratégie de dépôt](strategie.md)

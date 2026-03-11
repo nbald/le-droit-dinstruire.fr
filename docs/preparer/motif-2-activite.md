@@ -1,11 +1,16 @@
 ---
-description: "Motif 2 de l'article L. 131-5 : IEF pour activité sportive ou artistique intensive. Critères d'intensité, justificatifs attendus, jurisprudence."
-keywords: "IEF sport, IEF activité artistique, motif 2 IEF, sport intensif, conservatoire, haut niveau"
+description: "Motif 2 de l'article L. 131-5 : IEF pour activité sportive (2a) ou artistique (2b) intensive. Critères d'intensité, justificatifs attendus, jurisprudence."
+keywords: "IEF sport, IEF activité artistique, motif 2 IEF, motif 2a, motif 2b, sport intensif, conservatoire, haut niveau"
 ---
 
-# Motif 2 — Activité intensive
+# Motif 2 — Activités intensives
 
-Le 2° de l'[article L. 131-5 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594) permet de demander l'[IEF](../a-propos/glossaire.md) en raison de **la pratique d'activités sportives ou artistiques intensives**. Ce motif vise les enfants dont le rythme d'entraînement ou de répétition est incompatible avec les horaires d'un établissement scolaire.
+Le 2° de l'[article L. 131-5 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594) permet de demander l'[IEF](../a-propos/glossaire.md) en raison de **la pratique d'activités sportives ou artistiques intensives**. Sur le formulaire de demande, l'administration distingue deux sous-motifs :
+
+- **Motif 2a** — la pratique d'activités sportives intensives de l'enfant
+- **Motif 2b** — la pratique d'activités artistiques intensives de l'enfant
+
+Ce motif vise les enfants dont le rythme d'entraînement ou de répétition est incompatible avec les horaires d'un établissement scolaire.
 
 !!! abstract "En bref"
 
@@ -157,21 +162,21 @@ Un cursus standard de quelques heures par semaine ne sera pas considéré comme 
 
 ## La frontière avec le motif 4
 
-Le motif 2° couvre les cas où l'activité **rend impossible l'assiduité scolaire**. Le [motif 4°](motif-4-situation-propre.md) couvre les situations où c'est **l'enfant lui-même** (sa personnalité, ses besoins) qui justifie un projet éducatif adapté.
+Le motif 2 couvre les cas où l'activité **rend impossible l'assiduité scolaire**. Le [motif 4](motif-4-situation-propre.md) couvre les situations où c'est **l'enfant lui-même** (sa personnalité, ses besoins) qui justifie un projet éducatif adapté.
 
-**Utilisez le motif 2° quand :**
+**Utilisez le motif 2 quand :**
 
 - L'enfant est inscrit dans un organisme sportif ou artistique.
 - Les horaires d'entraînement chevauchent les horaires scolaires.
 - L'incompatibilité est purement organisationnelle.
 
-**Utilisez le motif 4° quand :**
+**Utilisez le motif 4 quand :**
 
 - L'activité n'atteint pas le seuil d'intensité mais fait partie d'un projet éducatif global lié aux besoins de l'enfant.
 - La pratique est principalement familiale ou autodidacte.
 
 !!! warning "Ne pas mélanger les motifs"
 
-    Invoquer le motif 2° avec un volume horaire faible ou des activités hors temps scolaire expose au rejet. Si le dossier repose davantage sur les besoins propres de l'enfant, le motif 4° est plus adapté — mais il exige un projet éducatif écrit et la capacité à instruire (diplôme de niveau bac).
+    Invoquer le motif 2 avec un volume horaire faible ou des activités hors temps scolaire expose au rejet. Si le dossier repose davantage sur les besoins propres de l'enfant, le motif 4 est plus adapté — mais il exige un projet éducatif écrit et la capacité à instruire (diplôme de niveau bac).
 
 Voir aussi : [Motif 4 — Situation propre](motif-4-situation-propre.md) · [Stratégie de dépôt](strategie.md)

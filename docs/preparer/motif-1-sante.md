@@ -1,11 +1,16 @@
 ---
-description: "Motif 1 de l'article L. 131-5 : demander l'IEF pour raison de santé ou handicap de l'enfant. Conditions, jurisprudence, autorisation pluriannuelle."
-keywords: "IEF santé, IEF handicap, motif 1 IEF, autorisation pluriannuelle, MDPH, certificat médical IEF"
+description: "Motif 1 de l'article L. 131-5 : demander l'IEF pour raison de santé (1a) ou handicap (1b) de l'enfant. Conditions, jurisprudence, autorisation pluriannuelle."
+keywords: "IEF santé, IEF handicap, motif 1 IEF, motif 1a, motif 1b, autorisation pluriannuelle, MDPH, certificat médical IEF"
 ---
 
 # Motif 1 — Santé et handicap
 
-Le motif 1° de l'[article L. 131-5 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594) permet de demander l'[IEF](../a-propos/glossaire.md) en raison de **l'état de santé de l'enfant ou de son handicap**. C'est le seul motif qui peut donner lieu à une autorisation pluriannuelle (jusqu'à trois ans).
+Le 1° de l'[article L. 131-5 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594) permet de demander l'[IEF](../a-propos/glossaire.md) en raison de **l'état de santé de l'enfant ou de son handicap**. C'est le seul motif qui peut donner lieu à une autorisation pluriannuelle (jusqu'à trois ans).
+
+Sur le formulaire de demande, l'administration distingue deux sous-motifs :
+
+- **Motif 1a** — l'état de santé de l'enfant
+- **Motif 1b** — la situation de handicap de l'enfant
 
 !!! abstract "En bref"
 
@@ -228,7 +233,7 @@ Les dossiers acceptés par les tribunaux présentent un point commun : des **pi�
 
 !!! warning "Le choix du motif est structurant"
 
-    Si la demande repose sur des raisons médicales, elle doit impérativement être déposée sur le **motif 1°** avec un certificat sous pli fermé. Invoquer des éléments de santé sur le motif 4° ne fonctionne pas : le juge les écarte car la procédure réglementaire n'a pas été suivie.
+    Si la demande repose sur des raisons médicales, elle doit impérativement être déposée sur le **motif 1** avec un certificat sous pli fermé. Invoquer des éléments de santé sur le motif 4 ne fonctionne pas : le juge les écarte car la procédure réglementaire n'a pas été suivie.
 
 ## MDPH, PPS et IEF
 

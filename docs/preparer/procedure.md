@@ -58,14 +58,14 @@ La demande se fait au moyen d'un **formulaire dont le modèle est fixé par le m
 
 **Pièces supplémentaires selon le motif :**
 
-| Motif | Pièces à fournir ([art. R. 131-11-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175620) à [R. 131-11-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175631)) |
+| Motif | Pièces à fournir |
 |---|---|
-| **1a — Santé** | Certificat médical de moins d'un an, **sous pli fermé**, attestant de la pathologie de l'enfant |
-| **1b — Handicap** | Certificat médical prévu par l'[art. R. 146-26 du CASF](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032410518) sous pli fermé, **ou** décisions de la [CDAPH](../a-propos/glossaire.md) relatives à l'instruction de l'enfant |
-| **2a — Sport / 2b — Art intensif** | 1° Attestation d'inscription auprès d'un organisme sportif ou artistique · 2° Présentation de l'organisation du temps de l'enfant, de ses engagements et de ses contraintes, établissant qu'il **ne peut fréquenter assidûment** un établissement |
-| **3a — Itinérance** | Toutes pièces utiles justifiant de l'**impossibilité pour l'enfant de fréquenter assidûment** un établissement d'enseignement public ou privé |
-| **3b — Éloignement** | Toutes pièces utiles **établissant l'éloignement** géographique de tout établissement scolaire public |
-| **4 — Situation propre** | 1° Présentation écrite du projet éducatif · 2° Pièces justifiant de la disponibilité de l'instructeur · 3° Copie du diplôme du baccalauréat (ou équivalent) de l'instructeur · 4° Déclaration sur l'honneur d'instruire majoritairement en français |
+| **1a — Santé** | **Certificat médical** de moins d'un an, **sous pli fermé**, attestant de la pathologie de l'enfant<br>Le DASEN transmet le certificat sous pli fermé au **médecin de l'éducation nationale**, qui rend un avis sur la demande.<br>([art. R. 131-11-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175620)) |
+| **1b — Handicap** | • **Certificat médical** prévu par l'[art. R. 146-26 du CASF](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032410518), **sous pli fermé**<br>**ou** • **Décisions** relatives à l'instruction de l'enfant de la [commission des droits et de l'autonomie des personnes handicapées](../a-propos/glossaire.md) (CDAPH)<br>Le DASEN transmet le certificat sous pli fermé au **médecin de l'éducation nationale**, qui rend un avis sur la demande.<br>([art. R. 131-11-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175620)) |
+| **2a — Sport / 2b — Art intensif** | 1° Une **attestation d'inscription** auprès d'un organisme sportif ou artistique<br>2° Une présentation de **l'organisation du temps** de l'enfant, de ses engagements et de ses contraintes établissant qu'il **ne peut fréquenter assidûment** un établissement d'enseignement public ou privé.<br>([art. R. 131-11-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175622)) |
+| **3a — Itinérance** | Toutes pièces utiles justifiant de l'**impossibilité pour l'enfant de fréquenter assidûment**, pour ces raisons, un établissement d'enseignement public ou privé.<br>([art. R. 131-11-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175629)) |
+| **3b — Éloignement** | Toutes pièces utiles **établissant cet éloignement** géographique de tout établissement scolaire public.<br>([art. R. 131-11-4](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175629)) |
+| **4 — Situation propre** | 1° **Présentation écrite du projet éducatif** comportant les éléments essentiels de l'enseignement et de la pédagogie adaptés aux capacités et au rythme d'apprentissage de l'enfant.<br>2° Toutes **pièces utiles justifiant de la disponibilité** de la ou des personnes chargées d'instruire l'enfant<br>3° Une **copie du diplôme du baccalauréat** ou de son équivalent de la personne chargée d'instruire l'enfant<br>4° Une **déclaration sur l'honneur** de la ou des personnes chargées d'instruire l'enfant d'assurer cette instruction **majoritairement en langue française**<br>([art. R. 131-11-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175631)) |
 
 !!! warning "Dossier incomplet = refus"
 

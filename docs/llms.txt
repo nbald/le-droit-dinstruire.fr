@@ -19,9 +19,9 @@ Ce site explique le cadre juridique de l'instruction en famille (IEF) en France 
 
 ### Préparer sa demande
 - [La procédure](https://le-droit-dinstruire.fr/preparer/procedure/)
-- [Motif 1 — Santé et handicap](https://le-droit-dinstruire.fr/preparer/motif-1-sante/)
-- [Motif 2 — Activité intensive](https://le-droit-dinstruire.fr/preparer/motif-2-activite/)
-- [Motif 3 — Itinérance et éloignement](https://le-droit-dinstruire.fr/preparer/motif-3-itinerance/)
+- [Motif 1 — Santé et handicap](https://le-droit-dinstruire.fr/preparer/motif-1-sante/) (1a santé, 1b handicap)
+- [Motif 2 — Activités intensives](https://le-droit-dinstruire.fr/preparer/motif-2-activite/) (2a sport, 2b art)
+- [Motif 3 — Itinérance et éloignement](https://le-droit-dinstruire.fr/preparer/motif-3-itinerance/) (3a itinérance, 3b éloignement)
 - [Motif 4 — Situation propre de l'enfant](https://le-droit-dinstruire.fr/preparer/motif-4-situation-propre/)
 - [Le projet pédagogique](https://le-droit-dinstruire.fr/preparer/projet-pedagogique/)
 - [Stratégie de dépôt](https://le-droit-dinstruire.fr/preparer/strategie/)

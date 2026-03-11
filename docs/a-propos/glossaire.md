@@ -48,7 +48,7 @@ keywords: "glossaire IEF, définitions IEF, DASEN définition, RAPO définition,
 :   Ordre donné par le juge à l'administration de prendre une mesure déterminée (par exemple, délivrer une autorisation) dans un certain délai.
 
 **Inopérant**
-:   Se dit d'un moyen (argument juridique) qui, même s'il était fondé, ne pourrait pas entraîner l'annulation de la décision attaquée. Par exemple, invoquer le motif 1° alors que la demande a été déposée sur le motif 4° est inopérant.
+:   Se dit d'un moyen (argument juridique) qui, même s'il était fondé, ne pourrait pas entraîner l'annulation de la décision attaquée. Par exemple, invoquer le motif 1 (santé) alors que la demande a été déposée sur le motif 4 (situation propre) est inopérant.
 
 **JAF**
 :   Juge aux affaires familiales. Juge du tribunal judiciaire compétent pour les questions d'autorité parentale, de garde et de résidence des enfants.
