@@ -15,16 +15,30 @@ Demander l'instruction en famille est un parcours administratif encadré. Depuis
     - Autorisation valable **un an** (sauf motif santé : durée pluriannuelle, jusqu'à 3 ans en pratique).
     - Une demande **par enfant** (pas de dossier fratrie).
 
+## Quels enfants sont concernés ?
+
+L'instruction est obligatoire pour chaque enfant **dès l'âge de 3 ans et jusqu'à l'âge de 16 ans** ([art. L. 131-1 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038901859)). Seuls les enfants soumis à cette obligation d'instruction sont concernés par la demande d'autorisation d'IEF.
+
+- **Avant 3 ans** : aucune obligation d'instruction, aucune autorisation nécessaire.
+- **De 3 à 16 ans** : l'enfant doit être instruit — à l'école ou en famille avec autorisation.
+- **Après 16 ans** : l'obligation d'instruction cesse. L'[obligation de formation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038901960) qui s'applique de 16 à 18 ans (formation, emploi ou accompagnement) ne relève pas du régime de l'IEF.
+
+Concrètement, l'obligation s'applique « à compter de la rentrée scolaire de l'année civile où l'enfant atteint l'âge de trois ans » ([art. L. 131-5, al. 3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594)) et prend fin le jour de ses 16 ans.
+
+!!! example "Année scolaire 2026–2027"
+
+    Pour la rentrée de septembre 2026, la [plateforme de l'académie de Grenoble](https://demarche.numerique.gouv.fr/commencer/demande-d-autorisation-d-instruction-dans-la-famil-7) indique que sont concernés les enfants **nés entre le 1er septembre 2010 et le 31 décembre 2023**.
+
 ## Le calendrier
 
 La demande doit être adressée au DASEN **entre le 1er mars et le 31 mai** précédant l'année scolaire concernée ([art. R. 131-11 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175616)).
 
 **Exceptions** : une demande peut être déposée **en dehors de cette période** si le motif est apparu après le 31 mai et qu'il tient :
 
-- à l'**état de santé** de l'enfant ou à son handicap (motif 1°) ;
-- à son **éloignement géographique** de tout établissement scolaire public (motif 3°).
+- à l'**état de santé** de l'enfant ou à son **handicap** (motifs 1a / 1b) ;
+- à son **éloignement géographique** de tout établissement scolaire public (motif 3b — mais pas le motif 3a itinérance).
 
-Les motifs 2° (activité sportive ou artistique intensive) et 4° (situation propre à l'enfant) ne permettent pas de demande hors délai.
+Les motifs 2 (activités intensives), 3a (itinérance) et 4 (situation propre) ne permettent pas de demande hors délai.
 
 !!! tip "Silence vaut acceptation"
 
@@ -44,12 +58,14 @@ La demande se fait au moyen d'un **formulaire dont le modèle est fixé par le m
 
 **Pièces supplémentaires selon le motif :**
 
-| Motif | Pièces à fournir |
+| Motif | Pièces à fournir ([art. R. 131-11-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175620) à [R. 131-11-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175631)) |
 |---|---|
-| **1° — Santé / handicap** | Certificat médical de moins d'un an, **sous pli fermé**, ou décisions de la [CDAPH](../a-propos/glossaire.md) ([art. R. 131-11-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175620)) |
-| **2° — Activités intensives** | Justificatif d'inscription dans une structure sportive ou artistique |
-| **3° — Itinérance / éloignement** | *(pas de pièce supplémentaire spécifique)* |
-| **4° — Situation propre** | Présentation écrite du projet éducatif, engagement d'instruction majoritairement en français, pièces justifiant de la capacité à instruire |
+| **1a — Santé** | Certificat médical de moins d'un an, **sous pli fermé**, attestant de la pathologie de l'enfant |
+| **1b — Handicap** | Certificat médical prévu par l'[art. R. 146-26 du CASF](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032410518) sous pli fermé, **ou** décisions de la [CDAPH](../a-propos/glossaire.md) relatives à l'instruction de l'enfant |
+| **2a — Sport / 2b — Art intensif** | 1° Attestation d'inscription auprès d'un organisme sportif ou artistique · 2° Présentation de l'organisation du temps de l'enfant, de ses engagements et de ses contraintes, établissant qu'il **ne peut fréquenter assidûment** un établissement |
+| **3a — Itinérance** | Toutes pièces utiles justifiant de l'**impossibilité pour l'enfant de fréquenter assidûment** un établissement d'enseignement public ou privé |
+| **3b — Éloignement** | Toutes pièces utiles **établissant l'éloignement** géographique de tout établissement scolaire public |
+| **4 — Situation propre** | 1° Présentation écrite du projet éducatif · 2° Pièces justifiant de la disponibilité de l'instructeur · 3° Copie du diplôme du baccalauréat (ou équivalent) de l'instructeur · 4° Déclaration sur l'honneur d'instruire majoritairement en français |
 
 !!! warning "Dossier incomplet = refus"
 
@@ -71,22 +87,23 @@ L'[article L. 131-6 du code de l'éducation](https://www.legifrance.gouv.fr/code
 
 L'autorisation est délivrée pour **une durée qui ne peut excéder l'année scolaire** ([art. L. 131-5, al. 6](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594)). Il faut la renouveler chaque année.
 
-**Exception** : lorsque l'autorisation est fondée sur le **motif 1°** (état de santé ou handicap), elle peut être accordée pour une **durée supérieure à un an** — en pratique, jusqu'à trois ans.
+**Exception** : lorsque l'autorisation est fondée sur le **motif 1** (état de santé ou handicap), elle peut être accordée pour une **durée supérieure à un an** — en pratique, jusqu'à trois ans.
 
-Les motifs 2°, 3° et 4° ne permettent pas d'autorisation pluriannuelle.
+Les motifs 2, 3 et 4 ne permettent pas d'autorisation pluriannuelle.
 
 | Motif | Durée maximale | Demande hors délai possible |
 |---|---|---|
-| **1° — Santé / handicap** | Pluriannuelle (jusqu'à 3 ans) | Oui |
-| **2° — Activités intensives** | 1 an | Non |
-| **3° — Itinérance / éloignement** | 1 an | Oui |
-| **4° — Situation propre** | 1 an | Non |
+| **1a — Santé / 1b — Handicap** | Pluriannuelle (jusqu'à 3 ans) | Oui |
+| **2a — Sport / 2b — Art intensif** | 1 an | Non |
+| **3a — Itinérance** | 1 an | Non |
+| **3b — Éloignement** | 1 an | Oui |
+| **4 — Situation propre** | 1 an | Non |
 
 !!! info "Une demande par enfant"
 
     La demande d'autorisation est **individuelle** : il faut déposer **une demande par enfant**. Il n'existe pas de formulaire groupé pour une fratrie. Chaque dossier est instruit séparément, avec ses propres pièces justificatives.
 
-    En pratique, les motifs peuvent différer d'un enfant à l'autre au sein de la même famille. Un enfant peut relever du motif 1° (santé) et son frère du motif 4° (situation propre).
+    En pratique, les motifs peuvent différer d'un enfant à l'autre au sein de la même famille. Un enfant peut relever du motif 1 (santé) et son frère du motif 4 (situation propre).
 
 ??? info "Le régime transitoire (terminé depuis août 2024)"
 
