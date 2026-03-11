@@ -5,7 +5,7 @@ keywords: "jurisprudence IEF, décisions justice IEF, tribunal administratif, Co
 
 # Index des décisions
 
-Ce site héberge le texte intégral de **159 décisions** de justice relatives à l'instruction en famille, rendues entre 2013 et 2026. Elles sont classées par année (de la plus récente à la plus ancienne) et par juridiction.
+Ce site héberge le texte intégral de **162 décisions** de justice relatives à l'instruction en famille, rendues entre 2013 et 2026. Elles sont classées par année (de la plus récente à la plus ancienne) et par juridiction.
 
 ## 2026
 
@@ -92,6 +92,10 @@ Ce site héberge le texte intégral de **159 décisions** de justice relatives �
 - [TA Dijon, 06/03/2025, n° 2403324](2025/ta-dijon/2025-03-06-2403324/index.md)
 - [TA Dijon, 17/12/2025, n° 2502606](2025/ta-dijon/2025-12-17-2502606/index.md)
 
+### TA Fort-de-France
+
+- [TA Fort-de-France, 03/04/2025, n° 2400597](2025/ta-fort-de-france/2025-04-03-2400597/index.md)
+
 ### TA Grenoble
 
 - [TA Grenoble, 20/08/2025, n° 2508298](2025/ta-grenoble/2025-08-20-2508298/index.md)
@@ -163,12 +167,14 @@ Ce site héberge le texte intégral de **159 décisions** de justice relatives �
 - [TA Rennes, 13/03/2025, n° 2401015](2025/ta-rennes/2025-03-13-2401015/index.md)
 - [TA Rennes, 13/03/2025, n° 2401017](2025/ta-rennes/2025-03-13-2401017/index.md)
 - [TA Rennes, 15/05/2025, n° 2405798](2025/ta-rennes/2025-05-15-2405798/index.md)
+- [TA Rennes, 22/05/2025, n° 2406677](2025/ta-rennes/2025-05-22-2406677/index.md)
 - [TA Rennes, 26/06/2025, n° 2404570](2025/ta-rennes/2025-06-26-2404570/index.md)
 - [TA Rennes, 10/07/2025, n° 2501177](2025/ta-rennes/2025-07-10-2501177/index.md)
 - [TA Rennes, 03/12/2025, n° 2507281](2025/ta-rennes/2025-12-03-2507281/index.md)
 
 ### TA Rouen
 
+- [TA Rouen, 20/05/2025, n° 2403468](2025/ta-rouen/2025-05-20-2403468/index.md)
 - [TA Rouen, 20/05/2025, n° 2403757](2025/ta-rouen/2025-05-20-2403757/index.md)
 
 ### TA Strasbourg

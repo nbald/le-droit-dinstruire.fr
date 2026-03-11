@@ -23,11 +23,15 @@ L'[article R. 131-11-3 du code de l'éducation](https://www.legifrance.gouv.fr/c
 
 Le critère n'est pas un nombre d'heures brut. C'est l'**incompatibilité concrète** entre les horaires d'entraînement et ceux de l'école. Des activités nombreuses mais programmées le soir et le week-end ne suffisent pas.
 
+!!! info "L'attestation de l'année en cours suffit"
+
+    L'[article R. 131-11-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175622) n'impose pas la production d'une attestation d'inscription pour l'année scolaire à venir. Une attestation d'inscription pour **l'année en cours** suffit.
+
+    [TA Fort-de-France, 3 avril 2025, n° 2400597](../decisions/2025/ta-fort-de-france/2025-04-03-2400597/index.md)
+
 !!! info "Le statut de sportif de haut niveau n'est pas requis"
 
     L'[article R. 131-11-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175622) n'exige ni le statut SHN, ni l'inscription sur les listes ministérielles. Il suffit d'une attestation d'inscription et de la démonstration de l'incompatibilité horaire.
-
-    > « La commission a commis une erreur de droit en exigeant la reconnaissance comme sportif de haut niveau par la fédération. »
 
     [TA Rennes réf., 5 août 2024, n° 2404194](../decisions/2024/ta-rennes/2024-08-05-2404194/index.md)
 
@@ -126,6 +130,14 @@ Les dossiers qui aboutissent partagent un trait commun : les entraînements **to
 
     [TA Rennes, 27 octobre 2022, n° 2204636](../decisions/2022/ta-rennes/2022-10-27-2204636/index.md)
 
+??? failure "19h45 d'activités par semaine pour un enfant de 8 ans"
+
+    **À retenir : trop d'heures peut se retourner contre le demandeur — le juge peut refuser au nom de l'intérêt supérieur de l'enfant, même si l'intensité est réelle.**
+
+    Enfant de 8 ans pratiquant le hockey sur glace, le taekwondo, l'escalade, les percussions et la chorale au conservatoire de Rouen, la guitare et la batterie en école de musique. L'emploi du temps totalise 19h45 d'activités sportives et musicales par semaine, auxquelles devaient s'ajouter de la danse hip hop et des arts plastiques à la rentrée suivante. Le tribunal retient que cette charge ne permet pas de « répondre aux besoins physiologiques d'un enfant de 8 ans en termes de repos et de récupération physique et psychique » et « ne laisse pas une place suffisante aux apprentissages fondamentaux ». Le refus est confirmé.
+
+    [TA Rouen, 20 mai 2025, n° 2403468](../decisions/2025/ta-rouen/2025-05-20-2403468/index.md)
+
 ### Les erreurs les plus fréquentes
 
 1. **Activités programmées en dehors des temps scolaires** (soirs, mercredis, week-ends) : elles sont par définition compatibles avec la scolarisation.
@@ -138,6 +150,7 @@ Les dossiers qui aboutissent partagent un trait commun : les entraînements **to
 Le conservatoire peut relever du motif 2°, mais **seulement si le volume horaire est significatif**.
 
 - 3h30 de harpe par semaine : insuffisant ([TA Toulouse réf., 29 août 2022, n° 2204585](../decisions/2022/ta-toulouse/2022-08-29-2204585/index.md)).
+- 5h45 de musique par semaine (trompette, orgue, piano, formation musicale, pratique collective) : insuffisant, « cet enfant ne peut être regardé comme pratiquant une activité artistique incompatible avec une scolarisation assidue » ([TA Rennes, 22 mai 2025, n° 2406677](../decisions/2025/ta-rennes/2025-05-22-2406677/index.md)).
 - Pratique multi-instrumentale au conservatoire régional (piano + alto + orchestre) : le juge des référés du TA Caen a suspendu le refus, mais principalement pour un motif procédural ([TA Caen réf., 13 février 2023, n° 2300118](../decisions/2023/ta-caen/2023-02-13-2300118/index.md)).
 
 Un cursus standard de quelques heures par semaine ne sera pas considéré comme intensif. Un **cycle spécialisé** (COP, CPES) avec un volume horaire conséquent pourrait suffire.
