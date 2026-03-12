@@ -36,7 +36,7 @@ Dans les deux cas, la charge de la preuve pèse sur la famille.
 
 Le juge n'accepte jamais une seule pièce isolée : il exige un **faisceau convergent** de documents démontrant l'impossibilité de fréquenter assidûment un établissement. Dans les décisions analysées, les types de preuves suivants ont par exemple pesé en faveur des familles :
 
-- **Kbis d'activité non sédentaire** — nécessaire mais pas suffisant à lui seul.
+- **Kbis d'activité non sédentaire** — renforce le dossier, mais pas suffisant à lui seul.
 - **Relevés bancaires** montrant des dépenses dans de multiples localités tout au long de l'année.
 - **Certificats de radiation** d'écoles successives.
 - **Attestations de stationnement** sur différentes aires d'accueil.
