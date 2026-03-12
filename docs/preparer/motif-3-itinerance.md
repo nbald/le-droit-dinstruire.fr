@@ -34,7 +34,7 @@ Dans les deux cas, la charge de la preuve pèse sur la famille.
 
 ### Le faisceau de preuves exigé
 
-Le juge n'accepte jamais une seule pièce isolée. Il exige un **faisceau convergent** de documents démontrant l'impossibilité de fréquenter assidûment un établissement :
+Le juge n'accepte jamais une seule pièce isolée : il exige un **faisceau convergent** de documents démontrant l'impossibilité de fréquenter assidûment un établissement. Dans les décisions analysées, les types de preuves suivants ont par exemple pesé en faveur des familles :
 
 1. **Kbis d'activité non sédentaire** — nécessaire mais pas suffisant à lui seul.
 2. **Relevés bancaires** montrant des dépenses dans de multiples localités tout au long de l'année.
