@@ -79,14 +79,6 @@ Vous envisagez l'instruction en famille ? Commencez par comprendre les quatre mo
 
 - [Proposition de loi n° 2273](proposition-de-loi/index.md) — analyse du texte visant à rétablir un régime déclaratif
 
-## Décisions
-
-Plus de 150 décisions de justice pertinentes en texte intégral, classées par année et juridiction.
-
-- [Index des décisions](decisions/index.md)
-
----
-
 ## À propos de ce site
 
 Ce site est l'œuvre de **deux parents en IEF**, scientifiques de formation, qui utilisent l'intelligence artificielle pour analyser systématiquement la jurisprudence administrative. Nous ne sommes pas juristes — nous sommes des citoyens qui savent traiter de la donnée. Plusieurs milliers de décisions ont été consultées, plus de 150 retenues et citées avec leur texte intégral.

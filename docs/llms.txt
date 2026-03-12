@@ -12,7 +12,6 @@ Ce site explique le cadre juridique de l'instruction en famille (IEF) en France 
 - [Après l'autorisation](https://le-droit-dinstruire.fr/apres/controle-pedagogique/): Le contrôle pédagogique, l'enquête de mairie, questions pratiques.
 - [Le coût humain](https://le-droit-dinstruire.fr/cout-humain): L'impact sur les familles.
 - [Proposition de loi n° 2273](https://le-droit-dinstruire.fr/proposition-de-loi/): Analyse de la proposition visant à rétablir un régime déclaratif.
-- [Décisions de justice](https://le-droit-dinstruire.fr/decisions/): Jurisprudence commentée, classée par tribunal et par date.
 - [Qui sommes-nous](https://le-droit-dinstruire.fr/a-propos/): L'équipe derrière le site.
 - [Glossaire](https://le-droit-dinstruire.fr/a-propos/glossaire/): Définitions des termes juridiques utilisés.
 
@@ -56,6 +55,5 @@ Ce site explique le cadre juridique de l'instruction en famille (IEF) en France 
 - [Proposition de loi n° 2273](https://le-droit-dinstruire.fr/proposition-de-loi/)
 
 ### Référence
-- [Décisions de justice](https://le-droit-dinstruire.fr/decisions/)
 - [Qui sommes-nous](https://le-droit-dinstruire.fr/a-propos/)
 - [Glossaire](https://le-droit-dinstruire.fr/a-propos/glossaire/)
