@@ -50,6 +50,8 @@ Les tribunaux écartent l'avis défavorable du médecin de l'Éducation national
 
     Les jugements ci-dessous sont des décisions de **tribunaux administratifs** (première instance), pas de cours d'appel. Un jugement de TA, même devenu définitif faute d'appel, ne fait pas doctrine : le ministère peut défendre une position différente dans une affaire similaire, et les CAA infirment régulièrement ce type de jugements. Seuls les arrêts de CAA et du Conseil d'État constituent une jurisprudence confirmée.
 
+    **Exception notable :** sur la question des **allergies alimentaires**, la [CAA Nancy, 7 mai 2025, n° 23NC02425](../decisions/2025/caa-nancy/2025-05-07-23NC02425/index.md) a confirmé en appel le rejet de la demande d'IEF, jugeant qu'un PAI suffit à gérer les allergies en milieu scolaire. C'est l'une des rares questions du motif 1° à disposer d'une jurisprudence d'appel.
+
 *Cliquez sur un cas ci-dessous pour lire le détail.*
 
 ???+ success "Bilans pluridisciplinaires contre avis défavorable"
@@ -96,15 +98,23 @@ Le juge confirme l'avis défavorable lorsque les éléments médicaux de la fami
 
 *Cliquez sur un cas ci-dessous pour lire le détail.*
 
-??? failure "Poly-allergie avec PAI existant"
+??? failure "Poly-allergie avec PAI existant — la saga Nancy (4 décisions, confirmée en appel)"
 
-    **À retenir :** la contradiction entre un avis médical antérieur favorable à la scolarisation (via un PAI) et un avis ultérieur la déclarant impossible suffit à écarter la demande d'IEF.
+    **À retenir :** un même enfant poly-allergique a fait l'objet de **quatre décisions** étalées sur trois ans (2023-2025). Malgré un référé gagné en cours de route, tous les jugements au fond et l'arrêt d'appel rejettent la demande d'IEF. La contradiction entre un avis médical antérieur favorable à la scolarisation (via un PAI) et un avis ultérieur la déclarant impossible suffit à écarter la demande.
 
-    - **Enfant :** garçon né le 8 septembre 2017 (environ 5-6 ans), poly-allergie alimentaire aux fruits à coques, arachides (sans trace autorisée) et crustacés, syndrome dermato-respiratoire (dermatite atopique bien contrôlée et asthme sous traitement).
-    - **Pièces déterminantes :** le Dr B, allergologue de la famille, avait lui-même élaboré en septembre-octobre 2022 un PAI permettant la scolarisation (paniers-repas apportés par la famille, interdiction de manipuler des allergènes en activités pratiques), puis a certifié en mars et mai 2023 que l'état de santé était incompatible avec la scolarisation ; le médecin de l'Éducation nationale confirme qu'une éviction alimentaire stricte via PAI demeure réalisable ; la mère reconnaît elle-même qu'une scolarisation pourrait être envisagée vers 6-7 ans.
-    - **Issue :** rejet — la commission académique de Nancy-Metz a confirmé le refus d'autorisation d'IEF pour l'année scolaire 2023-2024, sans erreur d'appréciation.
+    - **Enfant :** garçon né le 8 septembre 2017, poly-allergie alimentaire aux fruits à coques, arachides (sans trace autorisée) et crustacés, syndrome dermato-respiratoire (dermatite atopique et asthme sous traitement). Instruit en famille depuis septembre 2020.
 
-    [TA Nancy, 13 juin 2024, n° 2302234](../decisions/2024/ta-nancy/2024-06-13-2302234/index.md)
+    - **Les quatre décisions :**
+
+        1. [TA Nancy, 6 juillet 2023, n° 2203294](../decisions/2023/ta-nancy/2023-07-06-2203294/index.md) (fond, année 2022-2023) — **rejet**. L'allergologue de la famille s'était montrée favorable à un PAI ; le rectorat relève que l'enfant a été scolarisé l'année précédente sans difficulté.
+
+        2. [TA Nancy réf., 11 août 2023, n° 2302240](../decisions/2023/ta-nancy/2023-08-11-2302240/index.md) (référé, année 2023-2024) — **suspension**. Le juge des référés relève que le PAI « ne permet pas de pallier l'inconvénient d'exposer l'enfant, en raison de son jeune âge, à des échanges alimentaires spontanés sur temps scolaire ou périscolaire hors de la vigilance des adultes ».
+
+        3. [TA Nancy, 13 juin 2024, n° 2302234](../decisions/2024/ta-nancy/2024-06-13-2302234/index.md) (fond, année 2023-2024) — **rejet**. L'allergologue avait élaboré un PAI en septembre-octobre 2022 puis certifié en mars et mai 2023 que la scolarisation était impossible — contradiction retenue par le tribunal. Le médecin de l'Éducation nationale confirme qu'une éviction alimentaire stricte via PAI demeure réalisable.
+
+        4. [CAA Nancy, 7 mai 2025, n° 23NC02425](../decisions/2025/caa-nancy/2025-05-07-23NC02425/index.md) (appel du jugement n° 1) — **rejet confirmé**. La cour juge que les aménagements du PAI « ne sont pas de nature à entraver la scolarisation au point que ce mode d'instruction ne serait pas le plus conforme à son intérêt ».
+
+    - **Enseignement :** même un référé gagné (décision n° 2) ne préjuge pas du fond — le juge des référés statue sur le « doute sérieux » à un instant donné, mais le tribunal au fond apprécie l'ensemble du dossier. Ici, l'argument du jeune âge qui avait convaincu en référé n'a pas suffi au fond.
 
 ??? failure "Allergies non prouvées par les tests"
 
@@ -203,13 +213,17 @@ Les dossiers acceptés par les tribunaux présentent un point commun : des **pi�
 
 ??? failure "Allergies alimentaires seules"
 
-    **À retenir :** une poly-allergie sévère, même avec risque d'anaphylaxie, ne justifie pas l'IEF si un PAI permet de maîtriser le risque en milieu scolaire.
+    **À retenir :** une poly-allergie sévère, même avec risque d'anaphylaxie, ne justifie pas l'IEF si un PAI permet de maîtriser le risque en milieu scolaire. C'est l'une des rares questions du motif 1° **confirmée en appel**.
 
     - **Enfant :** garçon né le 8 septembre 2017, poly-allergie alimentaire aux fruits à coques, arachides (sans trace autorisée) et crustacés, avec antécédent de réaction allergique grave.
     - **Élément déterminant :** les prescriptions médicales ne portent que sur les moments de restauration — et non sur le déroulement des enseignements ; un [PAI](../a-propos/glossaire.md) prévoyant paniers-repas apportés par la famille et interdiction de manipuler des allergènes lors d'activités pratiques (cuisine, arts plastiques) suffit à permettre la scolarisation ; la mère n'a produit aucun élément s'opposant à une dispense de cantine.
-    - **Issue :** rejet — la demande d'IEF au motif de l'état de santé est rejetée, une scolarisation encadrée par PAI étant jugée réalisable.
+    - **Issue :** rejet — confirmé en appel par la [CAA Nancy, 7 mai 2025, n° 23NC02425](../decisions/2025/caa-nancy/2025-05-07-23NC02425/index.md), qui juge que les aménagements du PAI « ne sont pas de nature à entraver la scolarisation au point que ce mode d'instruction ne serait pas le plus conforme à son intérêt ».
 
-    [TA Nancy, 13 juin 2024, n° 2302234](../decisions/2024/ta-nancy/2024-06-13-2302234/index.md)
+    [TA Nancy, 13 juin 2024, n° 2302234](../decisions/2024/ta-nancy/2024-06-13-2302234/index.md) · [CAA Nancy, 7 mai 2025, n° 23NC02425](../decisions/2025/caa-nancy/2025-05-07-23NC02425/index.md)
+
+    **Un chiffre qui pèse :** à l'audience du TA Rennes (n° 2505219, 14 août 2025), le rectorat a indiqué que « plus de 60 % des PAI sont mis en place en raison d'allergies et d'asthme ». Ce chiffre illustre pourquoi les tribunaux considèrent que l'école sait gérer ces situations.
+
+    **Le retrait de Clermont-Ferrand :** l'administration a parfois préféré retirer son refus sans que le juge ne se prononce. Au TA de Clermont-Ferrand ([n° 2401447](../decisions/2024/ta-clermont-ferrand/2024-07-09-2401447/index.md) et [n° 2401449](../decisions/2024/ta-clermont-ferrand/2024-07-09-2401449/index.md), 9 juillet 2024), le rectorat a retiré ses refus et délivré les autorisations d'IEF pour deux enfants d'une même fratrie, dans un contexte particulier : IEF depuis 2018 pour l'aînée et 2022 pour la cadette, contrôles favorables, besoins thérapeutiques de la fratrie. La demande était fondée sur le motif 4° (situation propre), les allergies n'étant qu'un élément parmi d'autres. Ce retrait ne constitue pas une jurisprudence : le juge n'a pas statué sur le fond.
 
 ??? failure "Allergies non prouvées"
 
