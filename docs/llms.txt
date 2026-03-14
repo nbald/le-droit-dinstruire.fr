@@ -6,7 +6,7 @@ Ce site explique le cadre juridique de l'instruction en famille (IEF) en France 
 
 ## Sections
 
-- [Préparer sa demande](https://le-droit-dinstruire.fr/preparer/procedure/): La procédure, les quatre motifs légaux, le projet pédagogique, la stratégie de dépôt.
+- [Préparer sa demande](https://le-droit-dinstruire.fr/preparer/procedure/): La procédure, les quatre motifs légaux, le projet éducatif, la stratégie de dépôt.
 - [Contester un refus](https://le-droit-dinstruire.fr/contester/legalite-refus/): Vérifier la légalité, RAPO, tribunal administratif, référé-suspension.
 - [Le droit d'instruire en Europe](https://le-droit-dinstruire.fr/europe/cedh/): Ce que dit la CEDH, comparaison avec les voisins européens.
 - [Après l'autorisation](https://le-droit-dinstruire.fr/apres/controle-pedagogique/): Le contrôle pédagogique, l'enquête de mairie, questions pratiques.
@@ -23,7 +23,7 @@ Ce site explique le cadre juridique de l'instruction en famille (IEF) en France 
 - [Motif 2 — Activités intensives](https://le-droit-dinstruire.fr/preparer/motif-2-activite/) (2a sport, 2b art)
 - [Motif 3 — Itinérance et éloignement](https://le-droit-dinstruire.fr/preparer/motif-3-itinerance/) (3a itinérance, 3b éloignement)
 - [Motif 4 — Situation propre de l'enfant](https://le-droit-dinstruire.fr/preparer/motif-4-situation-propre/)
-- [Le projet pédagogique](https://le-droit-dinstruire.fr/preparer/projet-pedagogique/)
+- [Le projet éducatif](https://le-droit-dinstruire.fr/preparer/projet-educatif/)
 - [Stratégie de dépôt](https://le-droit-dinstruire.fr/preparer/strategie/)
 - [Les arguments à ne pas utiliser](https://le-droit-dinstruire.fr/preparer/arguments-a-eviter/)
 - [Séparation parentale](https://le-droit-dinstruire.fr/preparer/separation-parentale/)

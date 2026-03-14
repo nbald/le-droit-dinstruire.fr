@@ -33,7 +33,7 @@ keywords: "glossaire IEF, définitions IEF, DASEN définition, RAPO définition,
 :   Ensemble des litiges portés devant les juridictions. « Aller au contentieux » signifie saisir le tribunal.
 
 **CPC**
-:   Cours par correspondance. Organismes privés d'enseignement à distance (Griffon, Sainte-Anne, Ker Lann, etc.). L'inscription à un CPC ne dispense pas de personnaliser le projet pédagogique.
+:   Cours par correspondance. Organismes privés d'enseignement à distance (Griffon, Sainte-Anne, Ker Lann, etc.). L'inscription à un CPC ne dispense pas de personnaliser le projet éducatif.
 
 **CRPA**
 :   Code des relations entre le public et l'administration. Contient les règles de motivation des décisions, de silence valant acceptation/rejet, et d'accès aux documents.

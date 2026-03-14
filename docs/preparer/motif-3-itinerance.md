@@ -72,7 +72,7 @@ Aucun de ces éléments ne peut être exigé par l'administration : c'est à la 
 
     **À retenir :** l'itinérance non contestée par l'administration crée un doute sérieux sur la légalité du refus et justifie la suspension immédiate, au regard de la proximité de la rentrée scolaire.
 
-    Une mère appartenant à la communauté des gens du voyage, dont le père était commerçant non sédentaire, a demandé une autorisation d'instruction en famille pour sa fille au motif de cette itinérance. Bien que l'administration ait rejeté cette demande, le tribunal constate que l'itinérance invoquée n'a pas été contestée en défense. Au regard du sérieux du projet pédagogique, des effets graves sur la vie de l'enfant (risque d'éclatement familial) et de l'imminence de la rentrée scolaire, le tribunal suspend la décision et enjoint à l'académie de délivrer une autorisation provisoire.
+    Une mère appartenant à la communauté des gens du voyage, dont le père était commerçant non sédentaire, a demandé une autorisation d'instruction en famille pour sa fille au motif de cette itinérance. Bien que l'administration ait rejeté cette demande, le tribunal constate que l'itinérance invoquée n'a pas été contestée en défense. Au regard du sérieux du projet éducatif, des effets graves sur la vie de l'enfant (risque d'éclatement familial) et de l'imminence de la rentrée scolaire, le tribunal suspend la décision et enjoint à l'académie de délivrer une autorisation provisoire.
 
     [TA Poitiers réf., 30 août 2024, n° 2402177](../decisions/2024/ta-poitiers/2024-08-30-2402177/index.md)
 

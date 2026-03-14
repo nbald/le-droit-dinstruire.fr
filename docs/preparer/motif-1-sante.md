@@ -338,4 +338,4 @@ Mais l'**absence totale de démarche MDPH** alors que le handicap est invoqué e
 | Aucune démarche MDPH | Signal négatif |
 | MDPH oriente vers milieu ordinaire | L'administration s'en sert pour justifier la scolarisation |
 
-Voir aussi : [Motif 4 — Situation propre](motif-4-situation-propre.md) · [Stratégie de dépôt](strategie.md) · [Le projet pédagogique](projet-pedagogique.md)
+Voir aussi : [Motif 4 — Situation propre](motif-4-situation-propre.md) · [Stratégie de dépôt](strategie.md) · [Le projet éducatif](projet-educatif.md)

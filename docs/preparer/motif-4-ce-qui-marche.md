@@ -78,7 +78,7 @@ De nombreux tribunaux administratifs annulent néanmoins des refus d'IEF sur le 
     **À retenir :** un faisceau de difficultés bien documentées, combiné à une IEF ancienne et de qualité, peut l'emporter même si l'académie dispose de dispositifs pour élèves HPI.
 
     - **Enfants :** 13 et 15 ans, IEF depuis le CP et le CE2 — HPI, hypersensibilité au bruit et à l'agitation, rythme d'apprentissage très contrasté. L'aîné (15 ans) souffrait d'un stress post-traumatique à l'évocation d'une scolarisation ; le cadet (13 ans) présentait un possible TSA.
-    - **Pièces déterminantes :** bilans neuropsychologiques, attestation psychologique, projet pédagogique articulé autour de l'établissement Clonlara, contrôles pédagogiques antérieurs satisfaisants.
+    - **Pièces déterminantes :** bilans neuropsychologiques, attestation psychologique, projet éducatif articulé autour de l'établissement Clonlara, contrôles pédagogiques antérieurs satisfaisants.
     - **Issue :** inexacte application de la loi. Le juge retient le caractère « extrêmement déstabilisant » d'une scolarisation en établissement.
 
     [TA Paris, 5 mai 2025, n° 2421701/2421775](../decisions/2025/ta-paris/2025-05-05-2421701/index.md)

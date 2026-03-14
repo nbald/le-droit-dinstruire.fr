@@ -197,4 +197,4 @@ L'urgence peut être admise du fait de son caractère exécutoire et des sanctio
 
     Les affirmations de partialité ou d'animosité de l'inspecteur sont systématiquement écartées lorsqu'elles ne sont étayées par aucun élément concret ([CAA Nancy, 7 mai 2025, n° 23NC03417](../decisions/2025/caa-nancy/2025-05-07-23NC03417/index.md)). Si vous estimez que le contrôle ne s'est pas déroulé dans des conditions normales, consignez les faits par écrit dans un courrier adressé à l'administration le plus tôt possible après le contrôle.
 
-Voir aussi : [Le projet pédagogique](../preparer/projet-pedagogique.md) · [Ce qu'on risque vraiment](../preparer/sanctions.md) · [L'enquête de mairie](enquete-mairie.md)
+Voir aussi : [Le projet éducatif](../preparer/projet-educatif.md) · [Ce qu'on risque vraiment](../preparer/sanctions.md) · [L'enquête de mairie](enquete-mairie.md)

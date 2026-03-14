@@ -11,7 +11,7 @@ Voici les principaux, avec les décisions qui les écartent.
 
 !!! abstract "En bref"
 
-    Les arguments de principe (autorité parentale, liberté d'enseignement, vie privée, intérêt supérieur de l'enfant) sont **systématiquement rejetés** par les cours d'appel. Les dossiers gagnés reposent sur la **documentation concrète** de la situation propre et un **projet pédagogique personnalisé**.
+    Les arguments de principe (autorité parentale, liberté d'enseignement, vie privée, intérêt supérieur de l'enfant) sont **systématiquement rejetés** par les cours d'appel. Les dossiers gagnés reposent sur la **documentation concrète** de la situation propre et un **projet éducatif personnalisé**.
 
 | Argument | Pourquoi il est rejeté |
 |---|---|
@@ -122,7 +122,7 @@ Cet argument est systématiquement rejeté, **sauf** lorsque la situation propre
     Ces arguments de principe ne sont pas « interdits » : vous pouvez les mentionner dans vos écritures. Mais ils ne feront pas gagner votre dossier. Les décisions favorables reposent toutes sur le même socle :
 
     1. **Documentez la situation propre de votre enfant** avec des éléments concrets et objectifs (bilans professionnels, attestations médicales détaillées, rapports scolaires).
-    2. **Construisez un projet pédagogique personnalisé** qui répond spécifiquement aux besoins identifiés — pas une plaquette de cours par correspondance.
+    2. **Construisez un projet éducatif personnalisé** qui répond spécifiquement aux besoins identifiés — pas une plaquette de cours par correspondance.
     3. **Expliquez pourquoi l'école ne peut pas s'adapter** à cette situation (malgré les dispositifs existants comme le [PPRE](../a-propos/glossaire.md), le [PAP](../a-propos/glossaire.md) ou le [PPS](../a-propos/glossaire.md)).
 
     En bref : concentrez-vous sur votre enfant, pas sur des principes abstraits.

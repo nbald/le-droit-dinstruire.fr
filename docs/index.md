@@ -39,7 +39,7 @@ Vous envisagez l'instruction en famille ? Commencez par comprendre les quatre mo
 - [Motif 2 — Activités intensives](preparer/motif-2-activite.md) — activités sportives ou artistiques intensives
 - [Motif 3 — Itinérance et éloignement](preparer/motif-3-itinerance.md) — familles qui voyagent ou vivent loin d'un établissement
 - [Motif 4 — Situation propre de l'enfant](preparer/motif-4-situation-propre.md) — le motif le plus invoqué et le plus litigieux
-- [Le projet pédagogique](preparer/projet-pedagogique.md) — ce que les tribunaux exigent
+- [Le projet éducatif](preparer/projet-educatif.md) — ce que les tribunaux exigent
 - [Stratégie de dépôt](preparer/strategie.md) — demandes multiples, timing, rédaction
 - [Les arguments à ne pas utiliser](preparer/arguments-a-eviter.md) — pour ne pas affaiblir votre dossier
 - [Séparation parentale](preparer/separation-parentale.md) — quand les parents ne sont pas d'accord

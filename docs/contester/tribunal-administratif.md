@@ -76,7 +76,7 @@ L'analyse des décisions favorables fait apparaître des constantes. Les dossier
 
     Le HPI seul ne suffit pas. Ce qui fait basculer la décision, c'est la combinaison avec des troubles sensoriels, un TDA ou un TSA, étayée par des bilans comportant des préconisations environnementales concrètes incompatibles avec la classe. La seule décision de [CAA](../a-propos/glossaire.md) confirmant un TA favorable au fond sur le motif 4° concernait un enfant HPI avec hypersensibilité auditive et hyposensibilité orale, documenté par un bilan neurosensoriel détaillé ([CAA Douai, 17 octobre 2025, n° 24DA01898](../decisions/2025/caa-douai/2025-10-17-24DA01898/index.md)).
 
-???+ success "Un projet pédagogique personnalisé"
+???+ success "Un projet éducatif personnalisé"
 
     Les TA écartent systématiquement les projets qui se limitent à reproduire la plaquette d'un organisme de cours par correspondance ([CAA Nantes, 9 juin 2023, n° 22NT03860](../decisions/2023/caa-nantes/2023-06-09-22NT03860/index.md)). Le projet doit articuler la situation de l'enfant avec des choix pédagogiques concrets et individualisés.
 
@@ -94,7 +94,7 @@ L'analyse des décisions favorables fait apparaître des constantes. Les dossier
 
     - le dossier ne contient que des **attestations vagues** sans diagnostic formel ;
     - la situation invoquée est jugée « **commune à d'autres enfants** » sans élément distinctif ;
-    - le projet pédagogique est **générique** et non adapté à l'enfant ;
+    - le projet éducatif est **générique** et non adapté à l'enfant ;
     - la famille n'a engagé **aucune démarche** auprès de la MDPH alors qu'un handicap est invoqué.
 
 ## Attention : l'appel peut tout changer

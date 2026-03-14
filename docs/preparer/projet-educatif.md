@@ -1,17 +1,17 @@
 ---
-description: "Comment rédiger un projet pédagogique solide pour une demande d'IEF. Ce que les tribunaux exigent, les erreurs à éviter, exemples de projets acceptés."
-keywords: "projet pédagogique IEF, rédiger projet pédagogique, socle commun, programme IEF, méthode pédagogique"
+description: "Comment rédiger un projet éducatif solide pour une demande d'IEF. Ce que les tribunaux exigent, les erreurs à éviter, exemples de projets acceptés."
+keywords: "projet éducatif IEF, rédiger projet éducatif, socle commun, programme IEF, méthode pédagogique"
 ---
 
-# Le projet pédagogique
+# Le projet éducatif
 
-La [situation propre](motif-4-situation-propre.md) est la première jambe de la demande d'[IEF](../a-propos/glossaire.md). Le projet pédagogique est la seconde. Même avec une situation propre parfaitement documentée, un projet faible entraîne le refus. Les tribunaux les examinent avec la même rigueur.
+La [situation propre](motif-4-situation-propre.md) est la première jambe de la demande d'[IEF](../a-propos/glossaire.md). Le projet éducatif est la seconde. Même avec une situation propre parfaitement documentée, un projet faible entraîne le refus. Les tribunaux les examinent avec la même rigueur.
 
-Le projet pédagogique doit démontrer que l'instruction en famille permettra à l'enfant d'acquérir le [socle commun](../a-propos/glossaire.md) de connaissances, de compétences et de culture ([art. L. 122-1-1 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027682636)). Son contenu est encadré par l'[article R. 131-11-5 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175631).
+Le projet éducatif doit démontrer que l'instruction en famille permettra à l'enfant d'acquérir le [socle commun](../a-propos/glossaire.md) de connaissances, de compétences et de culture ([art. L. 122-1-1 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027682636)). Son contenu est encadré par l'[article R. 131-11-5 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175631).
 
 !!! abstract "En bref"
 
-    - Le projet pédagogique doit couvrir les **cinq domaines du socle commun** et être **personnalisé** pour l'enfant.
+    - Le projet éducatif doit couvrir les **cinq domaines du socle commun** et être **personnalisé** pour l'enfant.
     - Un projet générique ou une plaquette de cours par correspondance entraîne le refus.
     - La **pédagogie informelle** est admise si elle est traduite en objectifs du socle.
     - Le **volume horaire** doit être suffisant (des projets de 3h ou 11h30 par semaine ont été jugés insuffisants).
