@@ -14,7 +14,7 @@ Cette page explique les critères que l'administration et le juge utilisent pour
     - La demande doit exposer une **situation propre à l'enfant** — pas un choix éducatif des parents.
     - L'administration compare les avantages de l'école et de l'IEF pour cet enfant précis.
     - Les dossiers qui gagnent combinent des **bilans professionnels récents** avec des **préconisations concrètes incompatibles avec le cadre scolaire**.
-    - Les arguments courants (fratrie, bilinguisme, créativité, souhait de l'enfant) sont systématiquement rejetés en appel.
+    - Les arguments courants (fratrie, bilinguisme seul, créativité, souhait de l'enfant) sont systématiquement rejetés en appel.
 
 ## Ce que dit la loi
 
@@ -221,5 +221,5 @@ Si le trouble de votre enfant relève de la santé ou du handicap, le bon fondem
 Deux pages analysent en détail les décisions rendues par les tribunaux sur le motif 4 :
 
 - **[Ce qui marche devant les tribunaux](motif-4-ce-qui-marche.md)** — les profils qui obtiennent gain de cause, en cour d'appel et en tribunal administratif, et ce qui a fait la différence dans chaque dossier.
-- **[Ce qui ne marche pas](motif-4-ce-qui-ne-marche-pas.md)** — les arguments systématiquement rejetés par les cours d'appel (fratrie, bilinguisme, créativité, souhait de l'enfant, etc.).
+- **[Ce qui ne marche pas](motif-4-ce-qui-ne-marche-pas.md)** — les arguments systématiquement rejetés par les cours d'appel (fratrie, bilinguisme seul, créativité, souhait de l'enfant, etc.).
 

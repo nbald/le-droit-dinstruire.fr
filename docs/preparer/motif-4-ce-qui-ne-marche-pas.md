@@ -22,11 +22,19 @@ Pour le cadre juridique du motif 4, voir la [page principale](motif-4-situation-
 
 ??? failure "Le bilinguisme seul"
 
-    **À retenir :** parler deux langues à la maison ne caractérise pas une situation propre — il faut démontrer que le bilinguisme ne peut pas se poursuivre en parallèle d'une scolarisation classique.
+    **À retenir :** parler deux langues à la maison ne caractérise pas une situation propre — il faut démontrer que le bilinguisme ne peut pas se poursuivre en parallèle d'une scolarisation classique. Quand le bilinguisme est combiné à d'autres éléments objectifs (mobilité contrainte, HPI, projet concret d'expatriation), il peut en revanche contribuer à caractériser une situation propre — voir [ce qui marche](motif-4-ce-qui-marche.md).
 
     Une famille franco-américaine demandait l'IEF pour « parfaire le bilinguisme et la double culture ». La cour relève que les parents ne démontrent pas que les enfants ne seraient « pas en mesure de parfaire leur bilinguisme en fréquentant un établissement scolaire français, tout en poursuivant leur apprentissage de la langue anglaise, chez eux, avec leurs parents de nationalité américaine et leurs trois autres frères et sœurs également bilingues ». Le bilinguisme familial, loin de justifier l'IEF, est précisément ce qui permet de maintenir la seconde langue en dehors des heures de classe.
 
     [CAA Versailles, 18 décembre 2025, n° 24VE00483](../decisions/2025/caa-versailles/2025-12-18-24VE00483/index.md)
+
+    Les tribunaux administratifs appliquent la même grille de lecture, quelle que soit la langue invoquée — roumain, allemand, alsacien, turc, espagnol, italien :
+
+    - **Formule-type :** « *la scolarisation en milieu ordinaire ne saurait avoir pour objet ni effet d'empêcher [l'enfant] de bénéficier d'un enseignement bilingue* » (TA Rennes, 5 juillet 2024, n° 2403638).
+    - **Bilinguisme = pas une situation exceptionnelle :** « *le bilinguisme, qui ne constitue pas une situation exceptionnelle, est compatible avec une scolarisation en établissement scolaire* » (TA Lyon, 23 janvier 2026, n° 2515728).
+    - **Bilinguisme centré sur la musique et les langues :** « *la situation propre de l'enfant, centrée sur le bilinguisme et l'attrait pour la musique, n'est pas incompatible avec une scolarisation et ne saurait constituer des caractéristiques exprimant des besoins singuliers* » (TA Dijon, 16 janvier 2025, n° 2402832).
+    - **Absence d'offre bilingue dans l'académie :** même l'absence totale d'enseignement bilingue français-turc dans l'académie ne suffit pas (TA Strasbourg, 18 juillet 2024, n° 2404331).
+    - **Activités familiales suffisantes :** l'administration oppose que « *des activités familiales ou extra-scolaires suffiraient à leur fille pour qu'elle évolue dans un environnement bilingue* » (TA Clermont-Ferrand, 30 juin 2025, n° 2501647).
 
 ??? failure "La convenance personnelle et le choix éducatif"
 

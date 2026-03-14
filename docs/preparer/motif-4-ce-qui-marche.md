@@ -122,6 +122,28 @@ De nombreux tribunaux administratifs annulent néanmoins des refus d'IEF sur le 
 
     [TA Strasbourg, 4 décembre 2025, n° 2405100](../decisions/2025/ta-strasbourg/2025-12-04-2405100/index.md)
 
+??? success "Double nationalité et projet concret d'expatriation bilingue"
+
+    **À retenir :** lorsque le bilinguisme s'inscrit dans un projet concret d'installation dans le pays de la seconde langue et que l'école ne peut offrir un enseignement des matières dans cette langue, la situation propre peut être retenue — surtout si un traitement différent inexpliqué de la fratrie renforce l'erreur d'appréciation.
+
+    - **Enfant :** 5 ans, double nationalité franco-américaine — famille maternelle aux États-Unis, séjours réguliers.
+    - **Projet :** enseignement des matières scolaires en partie en anglais américain, double culture, perspective d'installation aux USA.
+    - **Ce qui a été déterminant :** l'école ne peut offrir « un enseignement des matières scolaires en partie en anglais américain et un enseignement comparable de la culture américaine ». La sœur de l'enfant avait été autorisée en IEF pour la même année, sans que le rectorat explique la différence de traitement.
+    - **Issue :** annulation du refus, injonction de délivrer l'autorisation sous 10 jours.
+
+    [TA Nancy, 13 février 2025, n° 2401617](../decisions/2025/ta-nancy/2025-02-13-2401617/index.md)
+
+??? success "Double nationalité, identité multilingue et école rurale inadaptée"
+
+    **À retenir :** une éducation bilingue dès la naissance, dans un contexte de double nationalité et de famille étendue ne parlant que la langue étrangère, combinée à une école locale inadaptée (classe unique multi-niveaux), peut créer un doute sérieux sur la légalité du refus.
+
+    - **Enfant :** petite section de maternelle — double nationalité franco-italienne, bilingue dès la naissance (italien + anglais quotidiens).
+    - **Situation :** famille voyageant fréquemment à Turin, branche maternelle parlant quasi-exclusivement italien. École de la commune = classe unique regroupant 3 niveaux.
+    - **Ce qui a été déterminant :** le juge retient la « situation propre à l'enfant motivant un projet éducatif doté d'un enseignement de deux langues étrangères en petite section de maternelle » et l'inadéquation de l'école locale.
+    - **Issue :** suspension du refus, autorisation provisoire d'IEF.
+
+    [TA Grenoble, 23 août 2024, n° 2406087](../decisions/2024/ta-grenoble/2024-08-23-2406087/index.md)
+
 ??? success "Régime transitoire de plein droit"
 
     **À retenir :** l'administration ne peut pas exiger les pièces du motif 4 quand la famille relève du régime transitoire de plein droit.
