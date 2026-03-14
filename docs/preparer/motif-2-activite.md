@@ -30,7 +30,7 @@ Le critère n'est pas un nombre d'heures brut. C'est l'**incompatibilité concr�
 
 !!! info "L'attestation de l'année en cours suffit"
 
-    L'[article R. 131-11-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175622) n'impose pas la production d'une attestation d'inscription pour l'année scolaire à venir. Une attestation d'inscription pour **l'année en cours** suffit.
+    L'[article R. 131-11-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175622) n'impose pas la production d'une attestation d'inscription pour l'année scolaire à venir. Une attestation d'inscription pour **l'année en cours** suffit. Le tribunal a retenu sur ce point une erreur de fait de l'administration, mais la famille a perdu sur le fond car les activités se déroulaient en dehors des temps scolaires.
 
     [TA Fort-de-France, 3 avril 2025, n° 2400597](../decisions/2025/ta-fort-de-france/2025-04-03-2400597/index.md)
 
@@ -40,7 +40,7 @@ Le critère n'est pas un nombre d'heures brut. C'est l'**incompatibilité concr�
 
     [TA Rennes réf., 5 août 2024, n° 2404194](../decisions/2024/ta-rennes/2024-08-05-2404194/index.md)
 
-    En revanche, la commission **peut légitimement examiner la spécialisation et la participation à des compétitions** comme indices de l'intensité de la pratique ([TA Besançon, 15 octobre 2024, n° 2401288](../decisions/2024/ta-besancon/2024-10-15-2401288/index.md)).
+    En revanche, la commission **peut légitimement examiner la spécialisation et la participation à des compétitions** comme indices de l'intensité de la pratique. La famille a toutefois perdu sur le fond car la pratique se déroulait principalement dans le cadre familial et en dehors des temps scolaires ([CAA Nancy, 10 juillet 2025, n° 24NC02688](../decisions/2025/caa-nancy/2025-07-10-24NC02688/index.md)).
 
 ## Ce qui est accepté
 
