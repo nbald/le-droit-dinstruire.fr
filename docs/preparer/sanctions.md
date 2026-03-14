@@ -113,7 +113,7 @@ Malgré ces fragilités, **des familles sont poursuivies et condamnées depuis f
 
     Source : [France Bleu](https://www.francebleu.fr/infos/faits-divers-justice/drome-un-couple-poursuivi-pour-avoir-assurer-l-instruction-a-la-maison-sans-autorisation-1570599)
 
-??? failure "500 € ferme (récidive) — TC Foix, 18 février 2025"
+??? failure "500 € ferme — TC Foix, 18 février 2025"
 
     **Famille.** Ramin Farhangi et Marjorie Bautista (même couple que le premier procès de décembre 2023).
 
@@ -190,9 +190,9 @@ Quelques constantes se dégagent de ces premières décisions :
 
     Aucun cas identifié ne concerne une famille ayant demandé et obtenu l'autorisation, puis pratiqué l'IEF dans le cadre légal. Les poursuites visent des familles qui refusent par principe de demander l'autorisation.
 
-!!! warning "La récidive aggrave les peines"
+!!! warning "Les peines se durcissent au fil des poursuites"
 
-    Le passage du sursis au ferme entre le premier et le deuxième procès des fondateurs d'Enfance Libre à Foix illustre cette logique.
+    Le passage du sursis au ferme entre le premier et le deuxième procès des fondateurs d'Enfance Libre à Foix illustre cette tendance. Attention : il ne s'agit pas de « récidive » au sens juridique (qui suppose une condamnation *définitive* préalable, [art. 132-10 du code pénal](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417338)). Tant qu'un appel est pendant, la première condamnation n'est pas définitive. Mais cela n'empêche pas le tribunal de prononcer une peine plus sévère.
 
 !!! tip "Le parquet propose souvent des alternatives avant le procès"
 
@@ -228,7 +228,7 @@ Le risque pénal est désormais avéré pour les familles en désobéissance civ
 
 | Risque | Probabilité | Nature |
 |---|---|---|
-| Condamnation pénale ([art. 227-17-1 al. 1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982715)) | Réelle en cas de désobéissance civile ; amendes de 300 à 1 000 € (sursis sauf récidive) | Pénale |
+| Condamnation pénale ([art. 227-17-1 al. 1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982715)) | Réelle en cas de désobéissance civile ; amendes de 300 à 1 000 € (sursis en général, ferme possible en cas de poursuites répétées) | Pénale |
 | Suppression des prestations familiales ([art. L552-4 CSS](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982562)) | Systématique sans autorisation ; 600 à 1 000 €/mois de pertes | Financière |
 | Mise en demeure de scolariser | Fréquente après contrôles insuffisants | Administrative (contestable) |
 | Information préoccupante | Possible en cas de conflit prolongé | Sociale |
