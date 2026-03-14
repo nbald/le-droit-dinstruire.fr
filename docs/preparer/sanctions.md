@@ -10,7 +10,7 @@ La question des sanctions est légitime quand on envisage l'instruction en famil
 !!! abstract "En bref"
 
     - Les peines prononcées sont **très en-deçà des maxima légaux** : amendes de 300 à 1 000 € avec sursis, sauf cas exceptionnel (Quimper : 6 mois de prison avec sursis pour « dérive sectaire »).
-    - Trois **relaxes** ont été prononcées, toutes fondées sur l'irrégularité de la mise en demeure ou un vice de procédure.
+    - Quatre **relaxes** ont été prononcées : deux pour vice de procédure ou mise en demeure irrégulière, une sur le fond en première instance (TC Rennes), et une **en appel** (CA Limoges, 18 février 2026 — première relaxe prononcée par une cour d'appel en matière d'IEF).
     - Le risque le plus immédiat n'est pas pénal mais **financier** : la suppression des prestations CAF (600 à 1 000 €/mois) frappe systématiquement les familles sans autorisation.
     - **Aucune poursuite** n'a été identifiée contre une famille pratiquant l'IEF **dans le cadre légal** (avec autorisation).
 
@@ -133,9 +133,40 @@ Malgré ces fragilités, **des familles sont poursuivies et condamnées depuis f
 
     Sources : [France Bleu](https://www.francebleu.fr/infos/faits-divers-justice/coupables-mais-dispenses-de-peine-deux-parents-qui-refusaient-la-scolarisation-de-leurs-filles-juges-a-limoges-3738385) · [France 3](https://france3-regions.franceinfo.fr/nouvelle-aquitaine/haute-vienne/limoges/l-instruction-en-famille-c-est-un-choix-de-vie-un-couple-juge-pour-n-avoir-pas-scolarise-ses-deux-enfants-3115060.html)
 
+??? warning "Prison (sursis ou ferme ?), infirmée en appel — TC Tulle, 2025"
+
+    **Famille.** Olivier et Bérangère (Corrèze), parents de deux enfants (5 et 9 ans). Famille extérieure à Enfance Libre.
+
+    **Faits.** Autorisation d'IEF demandée au titre du motif 4° (situation propre à l'enfant) et refusée par le DSDEN de Corrèze. Poursuite de l'instruction en famille malgré le refus et la mise en demeure de scolariser.
+
+    **Verdict.** Condamnation comportant des **peines de prison** (quantum exact non publié). Cette condamnation a été **infirmée en appel** par la cour d'appel de Limoges le 18 février 2026 (→ voir la [relaxe CA Limoges](#relaxe-ca-limoges-18-fevrier-2026-premiere-relaxe-en-appel) ci-dessous).
+
+    *Date exacte de l'audience non publiée (2025, après le renvoi de l'audience du 6 mai 2025).*
+
+    Sources : [Nausica Avocats](https://nausica-avocats.fr/la-cour-dappel-de-limoges-tranche-en-faveur-de-lief/) · [Radio Totem](https://www.radiototem.net/l-education-en-famille-devant-le-tribunal)
+
 ### Les relaxes
 
 *Cliquez sur un cas ci-dessous pour lire le détail.*
+
+<a id="relaxe-ca-limoges-18-fevrier-2026-premiere-relaxe-en-appel"></a>
+
+???+ success "Relaxe — CA Limoges, 18 février 2026 — première relaxe en appel"
+
+    **Famille.** Olivier et Bérangère (Corrèze), parents de deux enfants (5 et 9 ans) — mêmes parents que le TC Tulle ci-dessus. Famille extérieure à Enfance Libre.
+
+    **Faits.** Appel de la condamnation du TC Tulle. La famille avait demandé l'autorisation d'IEF au titre du motif 4° (situation propre à l'enfant) et avait été refusée par le DSDEN de Corrèze.
+
+    **Verdict.** **Relaxe** (infirmation de la condamnation), renvoi des fins de la poursuite. Chaque parent se voit allouer **700 € d'indemnité** au titre de l'article 800-2 du code de procédure pénale. C'est la **première relaxe prononcée par une cour d'appel** en matière d'IEF.
+
+    **Motifs clés :**
+
+    - Le refus d'autorisation du DSDEN était « **pour partie incompréhensible, pour partie arbitraire** » : critères non définis, non prévus par la loi.
+    - Ce défaut de motivation constitue une « **excuse valable** » au sens de l'article 227-17-1 du code pénal.
+    - L'**historique IEF** de la famille et les **contrôles pédagogiques favorables** antérieurs rendaient le refus incohérent.
+    - Le contrôle de l'administration est **borné aux considérations strictement pédagogiques** ; les éléments extra-pédagogiques invoqués par le DSDEN ne pouvaient fonder un refus.
+
+    Sources : [Nausica Avocats](https://nausica-avocats.fr/la-cour-dappel-de-limoges-tranche-en-faveur-de-lief/) · [Enfance Libre](https://www.enfance-libre.fr/actualites/2026/3/12/limoges-en-faveur-de-lief) · [Radio Totem](https://www.radiototem.net/l-education-en-famille-devant-le-tribunal)
 
 ???+ success "Relaxe — TC Rennes, janvier 2025 — première relaxe sur le fond"
 
@@ -176,7 +207,7 @@ L'escalade des réquisitions en appel indique une volonté du parquet de durcir 
 
 ## Ce que révèle cette jurisprudence naissante
 
-Quelques constantes se dégagent de ces premières décisions :
+Quelques enseignements se dégagent de ces premières décisions :
 
 !!! info "Les peines sont très en-deçà des maxima légaux"
 
@@ -184,11 +215,19 @@ Quelques constantes se dégagent de ces premières décisions :
 
 !!! tip "La mise en demeure reste le talon d'Achille des poursuites"
 
-    Les trois relaxes identifiées reposent sur l'irrégularité de la mise en demeure ou un vice de procédure. Conformément à la réserve de la [QPC n° 2018-710](https://www.legifrance.gouv.fr/cons/id/CONSTEXT000037020580), la mise en demeure doit être **précise et circonstanciée**.
+    Deux relaxes reposent sur l'irrégularité de la mise en demeure ou un vice de procédure. Conformément à la réserve de la [QPC n° 2018-710](https://www.legifrance.gouv.fr/cons/id/CONSTEXT000037020580), la mise en demeure doit être **précise et circonstanciée**.
 
-!!! info "Les familles poursuivies sont quasi-exclusivement des « désobéissants civils »"
+!!! tip "L'« excuse valable » : un refus d'autorisation arbitraire peut entraîner la relaxe (CA Limoges, 2026)"
 
-    Aucun cas identifié ne concerne une famille ayant demandé et obtenu l'autorisation, puis pratiqué l'IEF dans le cadre légal. Les poursuites visent des familles qui refusent par principe de demander l'autorisation.
+    Pour condamner un parent, l'[article 227-17-1 CP](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982715) exige qu'il n'ait **aucune excuse valable**. Jusqu'ici, les relaxes reposaient sur des vices de procédure. La CA Limoges ouvre une autre porte : si l'administration **refuse l'autorisation de manière arbitraire**, ce refus constitue en lui-même une excuse valable — et l'infraction n'est pas constituée.
+
+    En l'espèce, le DSDEN avait refusé l'autorisation en invoquant des critères flous (« impossibilité présumée de scolarisation », conditions de vie, isolement géographique) — des motifs que la cour juge « pour partie incompréhensibles, pour partie arbitraires » parce qu'ils ne figurent pas dans la loi. À l'inverse, la famille pratiquait l'IEF depuis plusieurs années avec des **bilans pédagogiques positifs**.
+
+    La cour pose aussi un principe important : seules les **considérations pédagogiques** comptent. Les arguments d'ordre social ou idéologique ne peuvent pas fonder un refus d'autorisation.
+
+    Ce raisonnement est propre au juge pénal, qui dispose d'une « plénitude de juridiction » : il peut contrôler la qualité du refus d'autorisation, même si le juge administratif ne l'a pas annulé.
+
+    Source : [Nausica Avocats](https://nausica-avocats.fr/la-cour-dappel-de-limoges-tranche-en-faveur-de-lief/)
 
 !!! warning "Les peines se durcissent au fil des poursuites"
 
@@ -228,7 +267,7 @@ Le risque pénal est désormais avéré pour les familles en désobéissance civ
 
 | Risque | Probabilité | Nature |
 |---|---|---|
-| Condamnation pénale ([art. 227-17-1 al. 1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982715)) | Réelle en cas de désobéissance civile ; amendes de 300 à 1 000 € (sursis en général, ferme possible en cas de poursuites répétées) | Pénale |
+| Condamnation pénale ([art. 227-17-1 al. 1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982715)) | Réelle en cas de désobéissance civile ; amendes de 300 à 1 000 € (sursis en général, ferme possible en cas de poursuites répétées). Relaxe possible si le refus d'autorisation est arbitraire (CA Limoges, 2026) | Pénale |
 | Suppression des prestations familiales ([art. L552-4 CSS](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982562)) | Systématique sans autorisation ; 600 à 1 000 €/mois de pertes | Financière |
 | Mise en demeure de scolariser | Fréquente après contrôles insuffisants | Administrative (contestable) |
 | Information préoccupante | Possible en cas de conflit prolongé | Sociale |
