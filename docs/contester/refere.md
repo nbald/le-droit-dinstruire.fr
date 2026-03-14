@@ -11,7 +11,7 @@ Quand la rentrée scolaire approche et que la décision de la commission [RAPO](
 
     - Le **référé-suspension** permet de suspendre un refus d'IEF en urgence, en attendant le jugement au fond.
     - Il faut prouver l'**urgence** et un **doute sérieux sur la légalité**.
-    - Au moins **15 ordonnances favorables** identifiées entre 2024 et février 2026.
+    - Au moins **17 ordonnances favorables** identifiées entre 2024 et février 2026.
     - Le **référé-liberté** est une impasse : tous rejetés (une dizaine depuis 2022).
 
 ## Référé-suspension vs référé-liberté
@@ -61,11 +61,13 @@ Les moyens qui fonctionnent le mieux en référé sont :
 
 ## Le taux de succès
 
-Le référé-suspension en matière d'IEF n'est pas un pari perdu d'avance. Au moins **quinze ordonnances favorables** ont été identifiées entre 2024 et février 2026, rendues par des tribunaux administratifs de différentes régions :
+Le référé-suspension en matière d'IEF n'est pas un pari perdu d'avance. Au moins **dix-sept ordonnances favorables** ont été identifiées entre 2024 et février 2026, rendues par des tribunaux administratifs de différentes régions :
 
 | TA | Date | N° | Motif du doute sérieux |
 |---|---|---|---|
 | **Toulon** | 16/02/2026 | [2600391](../decisions/2026/ta-toulon/2026-02-16-2600391/index.md) | 4° --- situation propre |
+| **Toulon** | 16/02/2026 | [2600393](../decisions/2026/ta-toulon/2026-02-16-2600393/index.md) | 4° --- situation propre, erreur d'appréciation |
+| **Toulon** | 16/02/2026 | [2600394](../decisions/2026/ta-toulon/2026-02-16-2600394/index.md) | 4° --- situation propre, erreur d'appréciation |
 | **Lille** | 08/12/2025 | [2510903](../decisions/2025/ta-lille/2025-12-08-2510903/index.md) | 1° --- TDAH, traits TSA, harcèlement |
 | **Poitiers** | 24/11/2025 | [2503473](../decisions/2025/ta-poitiers/2025-11-24-2503473/index.md) | 4° --- composition irrégulière de la commission |
 | **Toulouse** | 16/10/2025 | [2506829](../decisions/2025/ta-toulouse/2025-10-16-2506829/index.md) | 2° --- erreur de droit (demande hors délai) |

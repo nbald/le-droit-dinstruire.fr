@@ -33,6 +33,16 @@ Le RAPO est formé auprès de la **commission présidée par le recteur d'acadé
 
 En pratique, le recours est généralement adressé au rectorat de votre académie. Vérifiez les indications figurant dans la notification de refus : elles doivent mentionner les voies et délais de recours.
 
+!!! danger "Privilégiez le recommandé avec accusé de réception"
+
+    Un RAPO envoyé par email risque de ne jamais arriver à son destinataire. Une famille du Morbihan a perdu tout recours pour ses six enfants parce que son RAPO, envoyé par courrier électronique, n'a jamais été reçu par l'administration :
+
+    > En raison d'une erreur dans l'adresse électronique du service destinataire, ces recours ne sont pas parvenus à l'administration dans le délai de quinze jours, prévu par cet article D. 131-11-10 du code de l'éducation.
+
+    Le recommandé avec accusé de réception crée une preuve de réception irréfutable. En cas de litige, c'est cette preuve qui vous permettra de démontrer que votre RAPO a bien été déposé dans le délai de quinze jours.
+
+    [TA Rennes, 9 février 2026, n° 2505939](../decisions/2026/ta-rennes/2026-02-09-2505939/index.md)
+
 ## Que mettre dans le RAPO
 
 La décision de la commission **se substitue** à celle du DASEN ([art. D. 131-11-13 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175818)). C'est donc le moment d'enrichir votre dossier.

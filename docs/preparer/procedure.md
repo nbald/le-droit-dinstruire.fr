@@ -100,6 +100,18 @@ La demande se fait au moyen d'un **formulaire dont le modèle est fixé par le m
 
     La DSDEN accuse réception de la demande et indique, le cas échéant, les documents manquants. La famille dispose alors de **15 jours** pour compléter le dossier[^cerfa]. Un dossier qui reste incomplet après ce délai peut être refusé sans même que le médecin de l'Éducation nationale soit saisi ([TA Caen, 3 février 2026, n° 2303194](../decisions/2026/ta-caen/2026-02-03-2303194/index.md)).
 
+!!! warning "Respectez impérativement le délai de 15 jours pour les pièces complémentaires"
+
+    Lorsque la commission demande des pièces complémentaires ([art. R. 131-11-6](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175633) du code de l'éducation), vous disposez de **15 jours** pour les transmettre. Ce délai est strict : un dépassement, même minime, suffit à rendre la demande irrecevable. Le tribunal ne se prononce alors même pas sur le fond du dossier.
+
+    Le TA de Pau a jugé irrecevable une demande dont les pièces complémentaires avaient été reçues avec seulement **5 jours de retard** (reçues le 1er juillet au lieu du 26 juin) :
+
+    > « Alors que le délai qui leur avait été alloué en application de l'article R. 131-11-6 du code de l'éducation précité pour compléter leur demande expirait le 26 juin 2024, les pièces manquantes n'ont été reçues par les services de l'Éducation nationale des Landes que le 1er juillet 2024. Il s'ensuit que la demande d'autorisation d'instruction dans la famille des requérants a été présentée en méconnaissance des délais prévus. »
+
+    Le tribunal a rejeté la requête « sans qu'il soit besoin d'examiner les moyens de la requête » — autrement dit, les arguments de fond n'ont même pas été étudiés.
+
+    [TA Pau, 5 février 2026, n° 2402682](../decisions/2026/ta-pau/2026-02-05-2402682/index.md)
+
 ## L'académie compétente
 
 La demande est adressée au **DASEN du département de résidence de l'enfant** ([art. R. 131-11](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045175616)). C'est le lieu de résidence effective qui compte, pas le lieu de naissance ni l'académie de l'année précédente.

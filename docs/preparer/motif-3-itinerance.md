@@ -154,6 +154,16 @@ Le juge rejette de nombreux dossiers d'itinérance, le plus souvent par insuffis
 
     > [TA Nancy, 24 octobre 2025, n° 2503220](../decisions/2025/ta-nancy/2025-10-24-2503220/index.md)
 
+??? failure "Déplacements professionnels courts et ponctuels"
+
+    **A retenir :** Des déplacements professionnels courts et ponctuels d'autoentrepreneurs, sans justificatifs probants, ne constituent pas l'itinérance exigée par le 3° de l'article L. 131-5.
+
+    Les parents, tous deux autoentrepreneurs, invoquaient de nombreux déplacements professionnels en France. Ils produisaient un tableau établi par leurs soins énumérant des déplacements de deux jours entre septembre et décembre, sans justificatif, à l'exception de deux réservations touristiques. Le tribunal considère que ces déplacements courts et ponctuels n'entraînent pas l'impossibilité pour les enfants de fréquenter assidûment un établissement scolaire.
+
+    > « Ils se bornent à produire un tableau établi par leurs soins qui énumère une série de déplacements de deux jours chacun entre les mois de septembre et décembre 2024, la plupart libellés "mission professionnelle et prospection", sans qu'aucun détail ni justificatif ne vienne établir la réalité de ces déplacements [...] ces déplacements courts et ponctuels ne sont pas de nature à entraîner une impossibilité pour leurs enfants de fréquenter assidûment un établissement d'enseignement public ou privé. »
+
+    [TA Pau, 5 février 2026, n° 2402131](../decisions/2026/ta-pau/2026-02-05-2402131/index.md)
+
 !!! warning "L'itinérance à l'étranger ne relève pas du motif 3°"
 
     Le texte vise « l'itinérance de la famille **en France** ». Un projet d'expatriation ou des déplacements à l'étranger ne relèvent pas de ce motif.

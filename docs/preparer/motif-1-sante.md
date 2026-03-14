@@ -178,6 +178,18 @@ Les dossiers acceptés par les tribunaux présentent un point commun : des **pi�
 
     [TA Limoges, 21 octobre 2025, n° 2501513](../decisions/2025/ta-limoges/2025-10-21-2501513/index.md)
 
+??? success "Difficultés attentionnelles et anxiété documentés"
+
+    **À retenir :** il n'est pas nécessaire de prouver l'impossibilité de scolarisation. Un faisceau documentaire concordant (neuropsychologue + médecin traitant) attestant de difficultés attentionnelles et d'anxiété suffit si l'IEF apparaît comme la forme d'instruction la plus conforme à l'intérêt de l'enfant.
+
+    - **Enfant :** fille de 11 ans, difficultés d'attention (attention fluctuante, difficulté à maintenir la concentration sur des temps adaptés à son âge), troubles du sommeil et anxiété.
+    - **Pièces déterminantes :** compte-rendu d'un neuropsychologue (6 décembre 2023) préconisant une réduction des distractions, un environnement sonore sans perturbation, des consignes adaptées et des pauses régulières ; compte-rendu du 21 mai 2024 faisant état de troubles du sommeil et d'anxiété ; certificat médical du médecin traitant (14 août 2024) corroborant ces éléments et sollicitant la réévaluation de la demande.
+    - **Issue :** erreur manifeste d'appréciation — annulation de la décision de la commission académique de Bordeaux (23 septembre 2024).
+
+    > « Il ressort des pièces du dossier, et plus particulièrement d'un compte-rendu d'un neuropsychologue du 6 décembre 2023, que la fille de Mme A... présente des difficultés d'attention, celle-ci étant fluctuante [...] Un compte rendu du 21 mai 2024 fait état de troubles du sommeil et d'une anxiété corroboré par un certificat médical de son médecin traitant du 14 août 2024 [...] Dans ces conditions, la requérante doit être regardée comme justifiant de ce que l'instruction dans la famille de sa fille est la plus conforme à son intérêt pour l'année scolaire en cours. »
+
+    [TA Pau, 5 février 2026, n° 2402929](../decisions/2026/ta-pau/2026-02-05-2402929/index.md)
+
 ### Pièces qui emportent la conviction
 
 - Bilans de **pédopsychiatres, neuropsychologues, psychomotriciens, ergothérapeutes** — pas seulement le médecin traitant

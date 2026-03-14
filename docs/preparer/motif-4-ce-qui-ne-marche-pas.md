@@ -114,3 +114,13 @@ Pour le cadre juridique du motif 4, voir la [page principale](motif-4-situation-
     - **Bilan dépassé :** un bilan « questionnant un éventuel haut potentiel intellectuel » perd toute valeur quand un bilan postérieur écarte ces hypothèses ([CAA Douai, 21 janvier 2026, n° 24DA01723](../decisions/2026/caa-douai/2026-01-21-24DA01723/index.md)).
     - **Psychologue ne suivant pas l'enfant :** une psychologue certifiant avoir observé les interactions familiales et prédisant des « angoisses » est jugée « insuffisamment circonstanciée » car elle ne suit pas régulièrement l'enfant ([CAA Versailles, 17 février 2026, n° 24VE00198](../decisions/2026/caa-versailles/2026-02-17-24VE00198/index.md)).
     - **Angoisses non objectivées :** des « nombreuses peurs et angoisses » et « crises émotionnelles très fortes » invoquées sans pièce médicale « ne permettent pas de caractériser de manière objective une situation propre » ([CAA Nancy, 7 mai 2025, n° 24NC00277](../decisions/2025/caa-nancy/2025-05-07-24NC00277/index.md)).
+
+??? failure "Un bilan qui « suggère » un TSA sans diagnostic posé"
+
+    Un bilan psychomoteur et un bilan neuropsychologique qui évoquent un trouble du neuro-développement sans qu'un diagnostic médical soit formellement posé ne suffisent pas à établir la situation propre à l'enfant au sens du 4° de l'article L. 131-5 du code de l'éducation.
+
+    > S'ils produisent le compte-rendu d'un bilan psychomoteur du 27 octobre 2023 et un bilan neuropsychologique de mai 2023 suggérant un diagnostic d'un trouble du neuro développement, ces éléments apparaissent en l'état insuffisants pour caractériser l'existence d'une situation propre à l'enfant motivant leur projet éducatif au sens des dispositions du 4° de l'article L. 131-5 précité.
+
+    [CAA Nancy, 7 mai 2025, n° 24NC00325](../decisions/2025/caa-nancy/2025-05-07-24NC00325/index.md)
+
+Voir aussi : [Les arguments à ne pas utiliser](arguments-a-eviter.md) pour les droits fondamentaux (CEDH, CIDE, Charte UE, PIDESC, DUDH)

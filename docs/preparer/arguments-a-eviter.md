@@ -20,6 +20,8 @@ Voici les principaux, avec les décisions qui les écartent.
 | **Intérêt supérieur de l'enfant (art. 3-1 CIDE)** | Le régime d'autorisation sert l'intérêt de l'enfant ; le moyen est écarté si la famille ne démontre pas que l'IEF y serait davantage conforme. |
 | **Non-discrimination (art. 14 CEDH)** | Les situations des autres familles ne sont pas nécessairement identiques. |
 | **Charte des droits fondamentaux de l'UE** | Le refus d'IEF ne met pas en œuvre le droit de l'Union ; le moyen est inopérant. |
+| **PIDESC (art. 13)** | Les stipulations invoquées sont « dépourvues d'effet direct » en droit interne. |
+| **DUDH (art. 26)** | La DUDH ne figure pas au nombre des traités ratifiés ; elle n'est pas directement invocable. |
 | **Arguments constitutionnels (QPC)** | Le Conseil constitutionnel a déclaré la loi conforme en 2021 ; aucun changement de circonstances retenu. |
 | **Liberté d'enseignement** | Le régime d'autorisation ne méconnaît ni le droit à l'instruction, ni le droit des parents ; l'enfant est orienté vers un établissement. |
 | **Contrôle restreint du juge** | Les cours exercent un contrôle normal, pas un contrôle restreint. |
@@ -42,7 +44,7 @@ Les tribunaux répondent que le refus d'IEF **ne prive pas l'enfant d'instructio
 
 > « La décision contestée a pour seul objet et pour seul effet de refuser aux requérants l'autorisation d'instruire leur fille en famille, sans la priver de la possibilité de bénéficier d'une instruction au sein d'un établissement scolaire privé ou public. »
 
-[CAA Nancy, 7 mai 2025, n° 24NC00277](../decisions/2025/caa-nancy/2025-05-07-24NC00277/index.md) — [CAA Nantes, 9 juin 2023, n° 22NT03864](../decisions/2023/caa-nantes/2023-06-09-22NT03864/index.md) — [CAA Versailles, 18 décembre 2025, n° 24VE00483](../decisions/2025/caa-versailles/2025-12-18-24VE00483/index.md)
+[CAA Nancy, 7 mai 2025, n° 24NC00277](../decisions/2025/caa-nancy/2025-05-07-24NC00277/index.md) — [CAA Nantes, 9 juin 2023, n° 22NT03864](../decisions/2023/caa-nantes/2023-06-09-22NT03864/index.md) — [CAA Versailles, 18 décembre 2025, n° 24VE00483](../decisions/2025/caa-versailles/2025-12-18-24VE00483/index.md) — [CAA Nancy, 7 mai 2025, n° 23NC03421](../decisions/2025/caa-nancy/2025-05-07-23NC03421/index.md)
 
 ## L'intérêt supérieur de l'enfant (art. 3-1 CIDE)
 
@@ -68,7 +70,27 @@ Cet argument est systématiquement rejeté, **sauf** lorsque la situation propre
 
     > « La décision en litige ne met pas en oeuvre le droit de l'Union. Dès lors, le moyen tiré de ce qu'elle méconnaîtrait l'article 24 de la Charte des droits fondamentaux de l'Union européenne est inopérant. »
 
-    [CAA Nantes, 9 juin 2023, n° 22NT03864](../decisions/2023/caa-nantes/2023-06-09-22NT03864/index.md) — [CAA Nancy, 7 mai 2025, n° 24NC00277](../decisions/2025/caa-nancy/2025-05-07-24NC00277/index.md)
+    [CAA Nantes, 9 juin 2023, n° 22NT03864](../decisions/2023/caa-nantes/2023-06-09-22NT03864/index.md) — [CAA Nancy, 7 mai 2025, n° 24NC00277](../decisions/2025/caa-nancy/2025-05-07-24NC00277/index.md) — [CAA Nancy, 7 mai 2025, n° 23NC03421](../decisions/2025/caa-nancy/2025-05-07-23NC03421/index.md)
+
+??? failure "Le Pacte international relatif aux droits économiques, sociaux et culturels (PIDESC)"
+
+    L'[article 13 du PIDESC](https://www.ohchr.org/fr/instruments-mechanisms/instruments/international-covenant-economic-social-and-cultural-rights#article-13) reconnaît le droit de chacun à l'éducation et la liberté des parents de choisir des établissements autres que publics. Certains requérants l'invoquent pour contester un refus d'IEF.
+
+    Le moyen est écarté : les stipulations du paragraphe 3 de l'article 13 du PIDESC « fixent des obligations à la charge des seuls Etats et sont dépourvues d'effet direct ». En d'autres termes, un particulier ne peut pas s'en prévaloir directement devant le juge administratif.
+
+    > « Ne peuvent qu'être écartés [...] les moyens tirés de la méconnaissance des stipulations du paragraphe 3 de l'article 13 du Pacte international relatif aux droits économiques, sociaux et culturels, qui fixent des obligations à la charge des seuls Etats et sont dépourvues d'effet direct. »
+
+    [CAA Nancy, 7 mai 2025, n° 23NC03421](../decisions/2025/caa-nancy/2025-05-07-23NC03421/index.md)
+
+??? failure "La Déclaration universelle des droits de l'homme (DUDH)"
+
+    L'[article 26 de la DUDH](https://www.un.org/fr/about-us/universal-declaration-of-human-rights#article-26) proclame le droit à l'éducation et la liberté des parents dans le choix de l'instruction. Certains requérants l'invoquent à l'appui de leur demande d'IEF.
+
+    Le moyen est inopérant : la DUDH n'est pas un traité international. Elle « ne figure pas au nombre des traités et accords qui ont été régulièrement ratifiés ou approuvés dans les conditions fixées par l'article 55 de la Constitution ». Elle n'a donc pas de valeur conventionnelle et n'est pas directement invocable devant le juge.
+
+    > « Ne peut qu'être écarté [...] le moyen tiré de la méconnaissance des stipulations de l'article 26 de la Déclaration universelle des droits de l'homme de l'Organisation des Nations Unies, laquelle ne figure pas au nombre des traités et accords qui ont été régulièrement ratifiés ou approuvés dans les conditions fixées par l'article 55 de la Constitution. »
+
+    [CAA Nancy, 7 mai 2025, n° 23NC03421](../decisions/2025/caa-nancy/2025-05-07-23NC03421/index.md)
 
 ??? failure "La QPC : déjà jugée"
 
@@ -87,7 +109,7 @@ Cet argument est systématiquement rejeté, **sauf** lorsque la situation propre
 
     > « L'[article L. 131-5 du code de l'éducation](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043982594), en ce qu'il prévoit que l'instruction dans la famille constitue une modalité dérogatoire [...] et qu'elle est soumise à un régime d'autorisation préalable, ne méconnaît, par lui-même, ni le droit à l'instruction, ni le droit des parents à l'instruction de leurs enfants conformément à leurs convictions religieuses et philosophiques. »
 
-    [CAA Versailles, 18 décembre 2025, n° 24VE00483](../decisions/2025/caa-versailles/2025-12-18-24VE00483/index.md) — [CAA Nantes, 9 juin 2023, n° 22NT03864](../decisions/2023/caa-nantes/2023-06-09-22NT03864/index.md)
+    [CAA Versailles, 18 décembre 2025, n° 24VE00483](../decisions/2025/caa-versailles/2025-12-18-24VE00483/index.md) — [CAA Nantes, 9 juin 2023, n° 22NT03864](../decisions/2023/caa-nantes/2023-06-09-22NT03864/index.md) — [CAA Nancy, 7 mai 2025, n° 23NC03421](../decisions/2025/caa-nancy/2025-05-07-23NC03421/index.md)
 
 ??? failure "Le contrôle restreint du juge"
 
