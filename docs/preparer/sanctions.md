@@ -213,6 +213,24 @@ Quelques enseignements se dégagent de ces premières décisions :
 
     Les tribunaux prononcent des amendes de 300 à 1 000 euros, presque toujours avec sursis. Seul le cas de Quimper (6 mois de prison avec sursis) déroge, dans un contexte qualifié de « dérive sectaire ».
 
+!!! info "L'ampleur du phénomène en chiffres (mai 2025)"
+
+    Les données collectées par l'association Enfance Libre donnent une vue d'ensemble des procédures engagées contre les familles en désobéissance civile.
+
+    **Désobéissance civile** : 171 familles engagées avec Enfance Libre, dont 49 ayant refusé d'emblée de demander l'autorisation ; les autres sont entrées en désobéissance après un refus d'autorisation ou un RAPO rejeté.
+
+    **Procédures pénales** : 80 familles concernées, dont :
+
+    - 24 convoquées par un procureur
+    - 14 compositions pénales ou CRPC (6 acceptées)
+    - 13 déjà passées au tribunal + 5 convoquées
+    - 2 passées deux fois + 2 convoquées à repasser
+    - 1 convoquée pour un troisième procès
+
+    **Procédures sociales et allocations** : 35 familles avec une procédure sociale (dont 32 informations préoccupantes, 3 devant un juge pour enfants). 16 familles ont subi une suppression totale ou partielle des allocations.
+
+    Source : Enfance Libre, via [Radio Totem](https://www.radiototem.net/l-education-en-famille-devant-le-tribunal) (6 mai 2025).
+
 !!! tip "La mise en demeure reste le talon d'Achille des poursuites"
 
     Deux relaxes reposent sur l'irrégularité de la mise en demeure ou un vice de procédure. Conformément à la réserve de la [QPC n° 2018-710](https://www.legifrance.gouv.fr/cons/id/CONSTEXT000037020580), la mise en demeure doit être **précise et circonstanciée**.
