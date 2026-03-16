@@ -1,0 +1,59 @@
+# Le droit d'instruire
+
+> Le guide de référence sur l'instruction en famille en France — tout ce que la jurisprudence dit, en un seul endroit, en langage clair.
+
+Ce site explique le cadre juridique de l'instruction en famille (IEF) en France depuis la loi du 24 août 2021 qui a remplacé le régime déclaratif par un régime d'autorisation préalable.
+
+## Sections
+
+- [Préparer sa demande](https://le-droit-dinstruire.fr/preparer/procedure/): La procédure, les quatre motifs légaux, le projet éducatif, la stratégie de dépôt.
+- [Contester un refus](https://le-droit-dinstruire.fr/contester/legalite-refus/): Vérifier la légalité, RAPO, tribunal administratif, référé-suspension.
+- [Le droit d'instruire en Europe](https://le-droit-dinstruire.fr/europe/cedh/): Ce que dit la CEDH, comparaison avec les voisins européens.
+- [Après l'autorisation](https://le-droit-dinstruire.fr/apres/controle-pedagogique/): Le contrôle pédagogique, l'enquête de mairie, questions pratiques.
+- [Le coût humain](https://le-droit-dinstruire.fr/cout-humain): L'impact sur les familles.
+- [Proposition de loi n° 2273](https://le-droit-dinstruire.fr/proposition-de-loi/): Analyse de la proposition visant à rétablir un régime déclaratif.
+- [Qui sommes-nous](https://le-droit-dinstruire.fr/a-propos/): L'équipe derrière le site.
+- [Glossaire](https://le-droit-dinstruire.fr/a-propos/glossaire/): Définitions des termes juridiques utilisés.
+
+## Détail des pages
+
+### Préparer sa demande
+- [La procédure](https://le-droit-dinstruire.fr/preparer/procedure/)
+- [Motif 1 — Santé et handicap](https://le-droit-dinstruire.fr/preparer/motif-1-sante/) (1a santé, 1b handicap)
+- [Motif 2 — Activités intensives](https://le-droit-dinstruire.fr/preparer/motif-2-activite/) (2a sport, 2b art)
+- [Motif 3 — Itinérance et éloignement](https://le-droit-dinstruire.fr/preparer/motif-3-itinerance/) (3a itinérance, 3b éloignement)
+- [Motif 4 — Situation propre de l'enfant](https://le-droit-dinstruire.fr/preparer/motif-4-situation-propre/)
+- [Le projet éducatif](https://le-droit-dinstruire.fr/preparer/projet-educatif/)
+- [Stratégie de dépôt](https://le-droit-dinstruire.fr/preparer/strategie/)
+- [Les arguments à ne pas utiliser](https://le-droit-dinstruire.fr/preparer/arguments-a-eviter/)
+- [Séparation parentale](https://le-droit-dinstruire.fr/preparer/separation-parentale/)
+- [Connaître son académie](https://le-droit-dinstruire.fr/preparer/academies/)
+- [Les allocations et l'IEF](https://le-droit-dinstruire.fr/preparer/allocations/)
+- [Ce qu'on risque vraiment](https://le-droit-dinstruire.fr/preparer/sanctions/)
+
+### Contester un refus
+- [Vérifier la légalité du refus](https://le-droit-dinstruire.fr/contester/legalite-refus/)
+- [Le RAPO](https://le-droit-dinstruire.fr/contester/rapo/)
+- [Le tribunal administratif](https://le-droit-dinstruire.fr/contester/tribunal-administratif/)
+- [Le référé-suspension](https://le-droit-dinstruire.fr/contester/refere/)
+- [Combien de temps ça prend ?](https://le-droit-dinstruire.fr/contester/delais/)
+- [Se faire aider](https://le-droit-dinstruire.fr/contester/aide/)
+
+### Le droit d'instruire en Europe
+- [Ce que dit la CEDH](https://le-droit-dinstruire.fr/europe/cedh/)
+- [La France et ses voisins](https://le-droit-dinstruire.fr/europe/comparaison/)
+
+### Après l'autorisation
+- [Le contrôle pédagogique](https://le-droit-dinstruire.fr/apres/controle-pedagogique/)
+- [L'enquête de mairie](https://le-droit-dinstruire.fr/apres/enquete-mairie/)
+- [Questions pratiques](https://le-droit-dinstruire.fr/apres/questions-pratiques/)
+
+### Le coût humain
+- [Le coût humain](https://le-droit-dinstruire.fr/cout-humain)
+
+### Proposition de loi
+- [Proposition de loi n° 2273](https://le-droit-dinstruire.fr/proposition-de-loi/)
+
+### Référence
+- [Qui sommes-nous](https://le-droit-dinstruire.fr/a-propos/)
+- [Glossaire](https://le-droit-dinstruire.fr/a-propos/glossaire/)
